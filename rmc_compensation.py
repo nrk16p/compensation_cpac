@@ -51,12 +51,29 @@ def fetch_rmc_report(date: str = None) -> pd.DataFrame:
 
     logging.info(f"Fetch report for {target_date}")
 
+    vehicle_list = [
+        55046,55047,55075,55085,55086,55091,55092,55093,55094,55095,55096,55097,
+        55533,55534,55535,55686,55687,55688,55689,55690,55938,55939,55945,55947,
+        55948,57178,57179,57180,57181,57182,57184,57185,57343,57344,58266,58267,
+        40730,40733,46350,46363,46368,46371,46372,46409,46420,46424,46445,46458,
+        46460,46892,46893,46894,46895,47066,47067,47068,47069,47114,47115,47116,
+        47117,47119,47120,48650,48651,48652,48653,49427,49428,49429,49430,49431,
+        49432,52603,52604,52774,52775,52829,53657,53658,53659,53660,53663,53664,
+        53665,53666,53671,53672,53673,53674,53675,53715,53716,53717,53718,53719,
+        53745,53746,53747,53748,53749,53750,53751,53752,53753,53754,53755,53756,
+        53757,53758,53759,53821,53822,53823,53824,53825,53826,53827,53828,53830,
+        54291,54292,54293,54294,54295,54377,54576,54577,54578,54579,54580,55004,
+        55005,55006,55016,55017
+    ]
+
     payload = {
         "date_start": date_start,
         "date_end": date_end,
         "type": "vehicle",
+        "vehicle_list": vehicle_list,
         "plants_list": ["all"],
         "company_id": 1231,
+        "vehicle_visibility": ",".join(map(str, vehicle_list)),
         "site_id": "",
         "type_file": "excel"
     }
@@ -99,19 +116,27 @@ def fetch_rmc_report(date: str = None) -> pd.DataFrame:
 # ------------------------------------------------
 # TRANSFORM
 # ------------------------------------------------
-def transform_data(df: pd.DataFrame) -> pd.DataFrame:
+def transform_data(df):
 
-    cols = [
+    cols_to_select = [
         "หมายเลข DP",
         "รหัสรถ",
+        "รหัสคนขับ",
+        "คนขับรถ",
         "ประเภทรถ",
+        "รหัสแพลนต์",
         "ชื่อแพลนต์",
+        "รหัสไซต์งาน",
+        "ชื่อไซต์งาน",
         "เวลาถึงไซต์งาน",
         "เวลาออกจากไซต์งาน",
+        "รหัสยกเลิกตั๋ว",
+        "สถานะ",
+        "สถานะตั๋ว",
         "เวลาออกตั๋ว"
     ]
 
-    df = df[cols]
+    df = df[cols_to_select]
 
     df["เวลาถึงไซต์งาน"] = pd.to_datetime(df["เวลาถึงไซต์งาน"], errors="coerce")
     df["เวลาออกจากไซต์งาน"] = pd.to_datetime(df["เวลาออกจากไซต์งาน"], errors="coerce")
@@ -123,16 +148,12 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
 
     df["site_minutes"] = df["site_minutes"].round(0)
 
-    # -----------------------
-    # tier
-    # -----------------------
-
     df["tier"] = np.select(
         [
             df["site_minutes"].isna(),
             df["site_minutes"] < 91,
-            df["site_minutes"].between(91, 119),
-            df["site_minutes"].between(120, 150),
+            df["site_minutes"].between(91,119),
+            df["site_minutes"].between(120,150),
             df["site_minutes"] > 150
         ],
         [
@@ -145,30 +166,18 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
         default="tier_3"
     )
 
-    # -----------------------
-    # compensation
-    # -----------------------
-
     df["compensate"] = np.select(
         [
-            (df["tier"] == "tier_1") & (df["ประเภทรถ"] == "รถโม่ใหญ่ 10 ล้อ"),
-            (df["tier"] == "tier_2") & (df["ประเภทรถ"] == "รถโม่ใหญ่ 10 ล้อ"),
-            (df["tier"] == "tier_3") & (df["ประเภทรถ"] == "รถโม่ใหญ่ 10 ล้อ"),
-
-            (df["tier"] == "tier_1") & (df["ประเภทรถ"] == "รถโม่เล็ก 4 ล้อ"),
-            (df["tier"] == "tier_2") & (df["ประเภทรถ"] == "รถโม่เล็ก 4 ล้อ"),
-            (df["tier"] == "tier_3") & (df["ประเภทรถ"] == "รถโม่เล็ก 4 ล้อ")
+            (df["tier"]=="tier_1") & (df["ประเภทรถ"]=="รถโม่ใหญ่ 10 ล้อ"),
+            (df["tier"]=="tier_2") & (df["ประเภทรถ"]=="รถโม่ใหญ่ 10 ล้อ"),
+            (df["tier"]=="tier_3") & (df["ประเภทรถ"]=="รถโม่ใหญ่ 10 ล้อ"),
+            (df["tier"]=="tier_1") & (df["ประเภทรถ"]=="รถโม่เล็ก 4 ล้อ"),
+            (df["tier"]=="tier_2") & (df["ประเภทรถ"]=="รถโม่เล็ก 4 ล้อ"),
+            (df["tier"]=="tier_3") & (df["ประเภทรถ"]=="รถโม่เล็ก 4 ล้อ")
         ],
-        [
-            1, 2, 3,
-            0.5, 1, 1.5
-        ],
+        [1,2,3,0.5,1,1.5],
         default=0
     )
-
-    # -----------------------
-    # load vehicle
-    # -----------------------
 
     vehicle = pd.read_json(VEHICLE_PATH)
     vehicle_df = pd.json_normalize(vehicle["data"])
@@ -176,109 +185,87 @@ def transform_data(df: pd.DataFrame) -> pd.DataFrame:
     df["รหัสรถ"] = df["รหัสรถ"].astype(str)
     vehicle_df["code"] = vehicle_df["code"].astype(str)
 
-    df = df.merge(
+    df_merge = df.merge(
         vehicle_df,
         how="left",
         left_on="รหัสรถ",
         right_on="code"
     )
 
-    # -----------------------
-    # truck type
-    # -----------------------
-
-    df["truck_type"] = df["ประเภทรถ"].map({
+    df_merge["truck_type"] = df_merge["ประเภทรถ"].map({
         "รถโม่ใหญ่ 10 ล้อ": "ML",
         "รถโม่เล็ก 4 ล้อ": "MS"
     })
 
-    # -----------------------
-    # rename
-    # -----------------------
+    final = df_merge[[
+        "หมายเลข DP","รหัสรถ","plate_no_only","plate_no","ชื่อแพลนต์",
+        "เวลาถึงไซต์งาน","เวลาออกจากไซต์งาน","site_minutes",
+        "tier","truck_type","compensate","เวลาออกตั๋ว"
+    ]]
 
-    df = df.rename(columns={
-        "หมายเลข DP": "TicketNo",
-        "รหัสรถ": "TruckNo",
-        "plate_no": "TruckPlateNo",
-        "plate_no_only": "TruckPlateNo_clean",
-        "ชื่อแพลนต์": "PlantName",
-        "เวลาถึงไซต์งาน": "SiteMoveInAt",
-        "เวลาออกจากไซต์งาน": "SiteMoveOutAt",
-        "site_minutes": "minutes_diff",
-        "เวลาออกตั๋ว": "TicketCreateAt"
+    final = final.rename(columns={
+        "หมายเลข DP":"TicketNo",
+        "รหัสรถ":"TruckNo",
+        "plate_no":"TruckPlateNo",
+        "plate_no_only":"TruckPlateNo_clean",
+        "ชื่อแพลนต์":"PlantName",
+        "เวลาถึงไซต์งาน":"SiteMoveInAt",
+        "เวลาออกจากไซต์งาน":"SiteMoveOutAt",
+        "site_minutes":"minutes_diff",
+        "เวลาออกตั๋ว":"TicketCreateAt"
     })
 
-    df["date_ticket"] = pd.to_datetime(df["TicketCreateAt"]).dt.date
+    final["date_ticket"] = pd.to_datetime(final["TicketCreateAt"]).dt.date
 
-    df["is_complete_trip"] = np.where(
-        df["SiteMoveInAt"].notna() &
-        df["SiteMoveOutAt"].notna(),
+    final["is_complete_trip"] = np.where(
+        final["SiteMoveInAt"].notna() &
+        final["SiteMoveOutAt"].notna(),
         "Y",
         "N"
     )
 
-    return df
-
-
-# ------------------------------------------------
-# CLEAN DATA
-# ------------------------------------------------
-def clean_data(df: pd.DataFrame) -> pd.DataFrame:
-
-    df = df.replace([np.inf, -np.inf], np.nan)
-
-    required_cols = [
-        "TicketNo",
-        "TruckPlateNo",
-        "TruckPlateNo_clean",
-        "PlantName",
-        "truck_type",
-        "date_ticket"
-    ]
-
-    df = df.dropna(subset=required_cols)
-
-    for col in required_cols:
-        df = df[df[col] != ""]
-
-    logging.info(f"Rows after clean {len(df)}")
-
-    return df
+    return final
 
 
 # ------------------------------------------------
 # PUSH API
 # ------------------------------------------------
-def push_api(df: pd.DataFrame):
+def push_api(df):
 
-    df = df.copy()
+    df = df.replace([np.inf,-np.inf],np.nan)
 
-    # datetime convert
-    datetime_cols = [
-        "SiteMoveInAt",
-        "SiteMoveOutAt",
-        "TicketCreateAt"
+    required_cols = [
+        "TicketNo","TruckPlateNo","TruckPlateNo_clean",
+        "PlantName","truck_type","date_ticket"
     ]
 
-    for col in datetime_cols:
-        df[col] = pd.to_datetime(df[col], errors="coerce")
-        df[col] = df[col].apply(
-            lambda x: x.isoformat() if pd.notnull(x) else None
-        )
+    df = df.dropna(subset=required_cols)
 
-    df["date_ticket"] = pd.to_datetime(df["date_ticket"], errors="coerce")
+    for col in required_cols:
+        df = df[df[col]!=""]
+
+    logging.info(f"rows sending {len(df)}")
+
+    datetime_cols = ["SiteMoveInAt","SiteMoveOutAt","TicketCreateAt"]
+
+    for col in datetime_cols:
+        df[col] = pd.to_datetime(df[col],errors="coerce")
+        df[col] = df[col].apply(lambda x: x.isoformat() if pd.notnull(x) else None)
+
+    df["date_ticket"] = pd.to_datetime(df["date_ticket"],errors="coerce")
     df["date_ticket"] = df["date_ticket"].apply(
-        lambda x: x.isoformat() if pd.notnull(x) else None
+        lambda x: x.date().isoformat() if pd.notnull(x) else None
     )
 
-    data = df.to_dict(orient="records")
+    df["minutes_diff"] = pd.to_numeric(df["minutes_diff"],errors="coerce").fillna(0)
+    df["compensate"] = pd.to_numeric(df["compensate"],errors="coerce").fillna(0)
 
-    logging.info(f"Send records {len(data)}")
+    data = df.to_dict(orient="records")
 
     response = requests.post(
         API_PUSH,
         json=data,
-        headers={"Content-Type": "application/json"},
+        headers={"Content-Type":"application/json"},
         timeout=120
     )
 
@@ -295,9 +282,9 @@ def main():
 
         df_raw = fetch_rmc_report()
 
-        df = transform_data(df_raw)
+        logging.info("transform data")
 
-        df = clean_data(df)
+        df = transform_data(df_raw)
 
         push_api(df)
 
