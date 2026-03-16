@@ -1,0 +1,5323 @@
+{
+    "data": [
+        {
+            "id": 26913,
+            "plate_no": "71-2787 (111)",
+            "code": "111",
+            "plate_no_only": "71-2787",
+            "driver_name": "\u0e04\u0e33\u0e1e\u0e39\u0e25 \u0e27\u0e07\u0e04\u0e4c\u0e40\u0e1e\u0e47\u0e0a\u0e23\u0e0a\u0e31\u0e22",
+            "driver_id": 50898,
+            "device_types_id": 40
+        },
+        {
+            "id": 5196,
+            "plate_no": "71-4719 (147)",
+            "code": "147",
+            "plate_no_only": "71-4719",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 5175,
+            "plate_no": "71-4370 (149)",
+            "code": "149",
+            "plate_no_only": "71-4370",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 6512,
+            "plate_no": "71-5743 (150)",
+            "code": "150",
+            "plate_no_only": "71-5743",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 6511,
+            "plate_no": "71-5742 (153)",
+            "code": "153",
+            "plate_no_only": "71-5742",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 6513,
+            "plate_no": "71-5745 (154)",
+            "code": "154",
+            "plate_no_only": "71-5745",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 27875,
+            "plate_no": "72-0690 (166)",
+            "code": "166",
+            "plate_no_only": "72-0690",
+            "driver_name": "Driver559 Driver559",
+            "driver_id": 32120,
+            "device_types_id": 26
+        },
+        {
+            "id": 27874,
+            "plate_no": "72-0689 (167)",
+            "code": "167",
+            "plate_no_only": "72-0689",
+            "driver_name": "Driver558 Driver558",
+            "driver_id": 32119,
+            "device_types_id": 26
+        },
+        {
+            "id": 48843,
+            "plate_no": "3\u0e12\u0e205383 (3\u0e12\u0e205383)",
+            "code": "3\u0e12\u0e205383",
+            "plate_no_only": "3\u0e12\u0e205383",
+            "driver_name": "Driver698 Driver698",
+            "driver_id": 65921,
+            "device_types_id": 26
+        },
+        {
+            "id": 5474,
+            "plate_no": "71-5416 (6436)",
+            "code": "6436",
+            "plate_no_only": "71-5416",
+            "driver_name": "Driver414 Driver414",
+            "driver_id": 5710,
+            "device_types_id": 37
+        },
+        {
+            "id": 5176,
+            "plate_no": "71-4438 (6438)",
+            "code": "6438",
+            "plate_no_only": "71-4438",
+            "driver_name": "\u0e40\u0e01\u0e23\u0e35\u0e22\u0e07\u0e44\u0e01\u0e23 \u0e01\u0e31\u0e19\u0e19\u0e38\u0e2c\u0e32",
+            "driver_id": 5718,
+            "device_types_id": 37
+        },
+        {
+            "id": 14781,
+            "plate_no": "71-3500 (6441)",
+            "code": "6441",
+            "plate_no_only": "71-3500",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 4175,
+            "plate_no": "71-3819 (6454)",
+            "code": "6454",
+            "plate_no_only": "71-3819",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 8926,
+            "plate_no": "71-6936 (6463)",
+            "code": "6463",
+            "plate_no_only": "71-6936",
+            "driver_name": "Driver431 Driver431",
+            "driver_id": 9239,
+            "device_types_id": 37
+        },
+        {
+            "id": 8928,
+            "plate_no": "71-6938 (6464)",
+            "code": "6464",
+            "plate_no_only": "71-6938",
+            "driver_name": "Driver433 Driver433",
+            "driver_id": 9241,
+            "device_types_id": 37
+        },
+        {
+            "id": 8927,
+            "plate_no": "71-6937 (6465)",
+            "code": "6465",
+            "plate_no_only": "71-6937",
+            "driver_name": "Driver432 Driver432",
+            "driver_id": 9240,
+            "device_types_id": 37
+        },
+        {
+            "id": 53407,
+            "plate_no": "72-2489 (6471)",
+            "code": "6471",
+            "plate_no_only": "72-2489",
+            "driver_name": "Driver883 Driver883",
+            "driver_id": 72458,
+            "device_types_id": 32
+        },
+        {
+            "id": 50524,
+            "plate_no": "72-2490 (6472)",
+            "code": "6472",
+            "plate_no_only": "72-2490",
+            "driver_name": "Driver784 Driver784",
+            "driver_id": 68541,
+            "device_types_id": 32
+        },
+        {
+            "id": 50523,
+            "plate_no": "72-2491 (6473)",
+            "code": "6473",
+            "plate_no_only": "72-2491",
+            "driver_name": "Driver783 Driver783",
+            "driver_id": 68540,
+            "device_types_id": 32
+        },
+        {
+            "id": 50526,
+            "plate_no": "72-2492 (6474)",
+            "code": "6474",
+            "plate_no_only": "72-2492",
+            "driver_name": "Driver786 Driver786",
+            "driver_id": 68543,
+            "device_types_id": 32
+        },
+        {
+            "id": 50527,
+            "plate_no": "72-2493 (6475)",
+            "code": "6475",
+            "plate_no_only": "72-2493",
+            "driver_name": "Driver787 Driver787",
+            "driver_id": 68544,
+            "device_types_id": 32
+        },
+        {
+            "id": 50528,
+            "plate_no": "72-2494 (6476)",
+            "code": "6476",
+            "plate_no_only": "72-2494",
+            "driver_name": "Driver788 Driver788",
+            "driver_id": 68545,
+            "device_types_id": 32
+        },
+        {
+            "id": 47480,
+            "plate_no": "72-3122 (6477)",
+            "code": "6477",
+            "plate_no_only": "72-3122",
+            "driver_name": "Driver687 Driver687",
+            "driver_id": 63798,
+            "device_types_id": 37
+        },
+        {
+            "id": 47476,
+            "plate_no": "72-3123 (6478)",
+            "code": "6478",
+            "plate_no_only": "72-3123",
+            "driver_name": "Driver683 Driver683",
+            "driver_id": 63794,
+            "device_types_id": 37
+        },
+        {
+            "id": 47546,
+            "plate_no": "72-3120 (6479)",
+            "code": "6479",
+            "plate_no_only": "72-3120",
+            "driver_name": "Driver689 Driver689",
+            "driver_id": 63879,
+            "device_types_id": 37
+        },
+        {
+            "id": 47537,
+            "plate_no": "72-3121 (6480)",
+            "code": "6480",
+            "plate_no_only": "72-3121",
+            "driver_name": "Driver688 Driver688",
+            "driver_id": 63857,
+            "device_types_id": 37
+        },
+        {
+            "id": 47475,
+            "plate_no": "72-3531 (6481)",
+            "code": "6481",
+            "plate_no_only": "72-3531",
+            "driver_name": "Driver682 Driver682",
+            "driver_id": 63793,
+            "device_types_id": 37
+        },
+        {
+            "id": 47547,
+            "plate_no": "72-3527 (6482)",
+            "code": "6482",
+            "plate_no_only": "72-3527",
+            "driver_name": "Driver690 Driver690",
+            "driver_id": 63880,
+            "device_types_id": 37
+        },
+        {
+            "id": 47474,
+            "plate_no": "72-3528 (6483)",
+            "code": "6483",
+            "plate_no_only": "72-3528",
+            "driver_name": "Driver681 Driver681",
+            "driver_id": 63792,
+            "device_types_id": 37
+        },
+        {
+            "id": 50534,
+            "plate_no": "72-3526 (6484)",
+            "code": "6484",
+            "plate_no_only": "72-3526",
+            "driver_name": "Driver794 Driver794",
+            "driver_id": 68551,
+            "device_types_id": 32
+        },
+        {
+            "id": 50535,
+            "plate_no": "72-3529 (6485)",
+            "code": "6485",
+            "plate_no_only": "72-3529",
+            "driver_name": "Driver795 Driver795",
+            "driver_id": 68552,
+            "device_types_id": 32
+        },
+        {
+            "id": 50536,
+            "plate_no": "72-3530 (6486)",
+            "code": "6486",
+            "plate_no_only": "72-3530",
+            "driver_name": "Driver796 Driver796",
+            "driver_id": 68553,
+            "device_types_id": 32
+        },
+        {
+            "id": 50531,
+            "plate_no": "72-3431 (6487)",
+            "code": "6487",
+            "plate_no_only": "72-3431",
+            "driver_name": "Driver791 Driver791",
+            "driver_id": 68548,
+            "device_types_id": 37
+        },
+        {
+            "id": 50530,
+            "plate_no": "72-3432 (6488)",
+            "code": "6488",
+            "plate_no_only": "72-3432",
+            "driver_name": "Driver790 Driver790",
+            "driver_id": 68547,
+            "device_types_id": 37
+        },
+        {
+            "id": 50529,
+            "plate_no": "72-3433 (6489)",
+            "code": "6489",
+            "plate_no_only": "72-3433",
+            "driver_name": "Driver789 Driver789",
+            "driver_id": 68546,
+            "device_types_id": 32
+        },
+        {
+            "id": 50532,
+            "plate_no": "72-3435 (6490)",
+            "code": "6490",
+            "plate_no_only": "72-3435",
+            "driver_name": "Driver792 Driver792",
+            "driver_id": 68549,
+            "device_types_id": 32
+        },
+        {
+            "id": 47477,
+            "plate_no": "72-4121 (6491)",
+            "code": "6491",
+            "plate_no_only": "72-4121",
+            "driver_name": "Driver684 Driver684",
+            "driver_id": 63795,
+            "device_types_id": 37
+        },
+        {
+            "id": 47479,
+            "plate_no": "72-4124 (6492)",
+            "code": "6492",
+            "plate_no_only": "72-4124",
+            "driver_name": "Driver686 Driver686",
+            "driver_id": 63797,
+            "device_types_id": 37
+        },
+        {
+            "id": 47473,
+            "plate_no": "72-4122 (6493)",
+            "code": "6493",
+            "plate_no_only": "72-4122",
+            "driver_name": "Driver680 Driver680",
+            "driver_id": 63791,
+            "device_types_id": 37
+        },
+        {
+            "id": 47478,
+            "plate_no": "72-4125 (6494)",
+            "code": "6494",
+            "plate_no_only": "72-4125",
+            "driver_name": "Driver685 Driver685",
+            "driver_id": 63796,
+            "device_types_id": 37
+        },
+        {
+            "id": 50538,
+            "plate_no": "72-5553 (6495)",
+            "code": "6495",
+            "plate_no_only": "72-5553",
+            "driver_name": "Driver798 Driver798",
+            "driver_id": 68555,
+            "device_types_id": 32
+        },
+        {
+            "id": 50537,
+            "plate_no": "72-5561 (6496)",
+            "code": "6496",
+            "plate_no_only": "72-5561",
+            "driver_name": "Driver797 Driver797",
+            "driver_id": 68554,
+            "device_types_id": 37
+        },
+        {
+            "id": 50542,
+            "plate_no": "72-5552 (6497)",
+            "code": "6497",
+            "plate_no_only": "72-5552",
+            "driver_name": "Driver802 Driver802",
+            "driver_id": 68559,
+            "device_types_id": 32
+        },
+        {
+            "id": 50539,
+            "plate_no": "72-5560 (6498)",
+            "code": "6498",
+            "plate_no_only": "72-5560",
+            "driver_name": "Driver799 Driver799",
+            "driver_id": 68556,
+            "device_types_id": 37
+        },
+        {
+            "id": 50540,
+            "plate_no": "72-5565 (6499)",
+            "code": "6499",
+            "plate_no_only": "72-5565",
+            "driver_name": "Driver800 Driver800",
+            "driver_id": 68557,
+            "device_types_id": 37
+        },
+        {
+            "id": 50541,
+            "plate_no": "72-5564 (6500)",
+            "code": "6500",
+            "plate_no_only": "72-5564",
+            "driver_name": "Driver801 Driver801",
+            "driver_id": 68558,
+            "device_types_id": 37
+        },
+        {
+            "id": 49936,
+            "plate_no": "72-6675 (6501)",
+            "code": "6501",
+            "plate_no_only": "72-6675",
+            "driver_name": "Driver767 Driver767",
+            "driver_id": 67643,
+            "device_types_id": 37
+        },
+        {
+            "id": 49878,
+            "plate_no": "72-6674 (6502)",
+            "code": "6502",
+            "plate_no_only": "72-6674",
+            "driver_name": "Driver765 Driver765",
+            "driver_id": 67574,
+            "device_types_id": 37
+        },
+        {
+            "id": 49947,
+            "plate_no": "72-6938 (6503)",
+            "code": "6503",
+            "plate_no_only": "72-6938",
+            "driver_name": "Driver774 Driver774",
+            "driver_id": 67727,
+            "device_types_id": 37
+        },
+        {
+            "id": 49886,
+            "plate_no": "72-6939 (6504)",
+            "code": "6504",
+            "plate_no_only": "72-6939",
+            "driver_name": "Driver766 Driver766",
+            "driver_id": 67587,
+            "device_types_id": 37
+        },
+        {
+            "id": 49873,
+            "plate_no": "72-6937 (6505)",
+            "code": "6505",
+            "plate_no_only": "72-6937",
+            "driver_name": "Driver764 Driver764",
+            "driver_id": 67563,
+            "device_types_id": 37
+        },
+        {
+            "id": 49142,
+            "plate_no": "72-8117 (6506)",
+            "code": "6506",
+            "plate_no_only": "72-8117",
+            "driver_name": "Driver711 Driver711",
+            "driver_id": 66393,
+            "device_types_id": 37
+        },
+        {
+            "id": 49144,
+            "plate_no": "72-8119 (6507)",
+            "code": "6507",
+            "plate_no_only": "72-8119",
+            "driver_name": "Driver713 Driver713",
+            "driver_id": 66395,
+            "device_types_id": 37
+        },
+        {
+            "id": 49151,
+            "plate_no": "72-8116 (6508)",
+            "code": "6508",
+            "plate_no_only": "72-8116",
+            "driver_name": "Driver720 Driver720",
+            "driver_id": 66402,
+            "device_types_id": 37
+        },
+        {
+            "id": 49148,
+            "plate_no": "72-8115 (6509)",
+            "code": "6509",
+            "plate_no_only": "72-8115",
+            "driver_name": "Driver717 Driver717",
+            "driver_id": 66399,
+            "device_types_id": 37
+        },
+        {
+            "id": 49143,
+            "plate_no": "72-8114 (6510)",
+            "code": "6510",
+            "plate_no_only": "72-8114",
+            "driver_name": "Driver712 Driver712",
+            "driver_id": 66394,
+            "device_types_id": 37
+        },
+        {
+            "id": 49147,
+            "plate_no": "72-8110 (6512)",
+            "code": "6512",
+            "plate_no_only": "72-8110",
+            "driver_name": "Driver716 Driver716",
+            "driver_id": 66398,
+            "device_types_id": 37
+        },
+        {
+            "id": 49150,
+            "plate_no": "72-8109 (6513)",
+            "code": "6513",
+            "plate_no_only": "72-8109",
+            "driver_name": "Driver719 Driver719",
+            "driver_id": 66401,
+            "device_types_id": 37
+        },
+        {
+            "id": 49145,
+            "plate_no": "72-8113 (6515)",
+            "code": "6515",
+            "plate_no_only": "72-8113",
+            "driver_name": "Driver714 Driver714",
+            "driver_id": 66396,
+            "device_types_id": 37
+        },
+        {
+            "id": 49665,
+            "plate_no": "72-8552 (6516)",
+            "code": "6516",
+            "plate_no_only": "72-8552",
+            "driver_name": "Driver747 Driver747",
+            "driver_id": 67163,
+            "device_types_id": 37
+        },
+        {
+            "id": 49660,
+            "plate_no": "72-8551 (6517)",
+            "code": "6517",
+            "plate_no_only": "72-8551",
+            "driver_name": "Driver745 Driver745",
+            "driver_id": 67157,
+            "device_types_id": 37
+        },
+        {
+            "id": 49682,
+            "plate_no": "72-8553 (6518)",
+            "code": "6518",
+            "plate_no_only": "72-8553",
+            "driver_name": "Driver752 Driver752",
+            "driver_id": 67188,
+            "device_types_id": 37
+        },
+        {
+            "id": 49667,
+            "plate_no": "72-8561 (6519)",
+            "code": "6519",
+            "plate_no_only": "72-8561",
+            "driver_name": "Driver749 Driver749",
+            "driver_id": 67165,
+            "device_types_id": 37
+        },
+        {
+            "id": 49666,
+            "plate_no": "72-8554 (6520)",
+            "code": "6520",
+            "plate_no_only": "72-8554",
+            "driver_name": "Driver748 Driver748",
+            "driver_id": 67164,
+            "device_types_id": 37
+        },
+        {
+            "id": 49677,
+            "plate_no": "72-8557 (6522)",
+            "code": "6522",
+            "plate_no_only": "72-8557",
+            "driver_name": "Driver750 Driver750",
+            "driver_id": 67183,
+            "device_types_id": 37
+        },
+        {
+            "id": 49685,
+            "plate_no": "72-8556 (6523)",
+            "code": "6523",
+            "plate_no_only": "72-8556",
+            "driver_name": "Driver755 Driver755",
+            "driver_id": 67192,
+            "device_types_id": 37
+        },
+        {
+            "id": 49683,
+            "plate_no": "72-8562 (6525)",
+            "code": "6525",
+            "plate_no_only": "72-8562",
+            "driver_name": "Driver753 Driver753",
+            "driver_id": 67189,
+            "device_types_id": 37
+        },
+        {
+            "id": 50514,
+            "plate_no": "72-9258 (6526)",
+            "code": "6526",
+            "plate_no_only": "72-9258",
+            "driver_name": "Driver778 Driver778",
+            "driver_id": 68520,
+            "device_types_id": 37
+        },
+        {
+            "id": 50515,
+            "plate_no": "72-9261 (6527)",
+            "code": "6527",
+            "plate_no_only": "72-9261",
+            "driver_name": "Driver779 Driver779",
+            "driver_id": 68521,
+            "device_types_id": 37
+        },
+        {
+            "id": 50517,
+            "plate_no": "72-9259 (6530)",
+            "code": "6530",
+            "plate_no_only": "72-9259",
+            "driver_name": "Driver781 Driver781",
+            "driver_id": 68523,
+            "device_types_id": 37
+        },
+        {
+            "id": 50561,
+            "plate_no": "72-9320 (6531)",
+            "code": "6531",
+            "plate_no_only": "72-9320",
+            "driver_name": "Driver805 Driver805",
+            "driver_id": 68580,
+            "device_types_id": 37
+        },
+        {
+            "id": 50560,
+            "plate_no": "72-9318 (6532)",
+            "code": "6532",
+            "plate_no_only": "72-9318",
+            "driver_name": "Driver804 Driver804",
+            "driver_id": 68579,
+            "device_types_id": 37
+        },
+        {
+            "id": 50562,
+            "plate_no": "72-9319 (6533)",
+            "code": "6533",
+            "plate_no_only": "72-9319",
+            "driver_name": "Driver806 Driver806",
+            "driver_id": 68581,
+            "device_types_id": 37
+        },
+        {
+            "id": 50563,
+            "plate_no": "72-9317 (6534)",
+            "code": "6534",
+            "plate_no_only": "72-9317",
+            "driver_name": "Driver807 Driver807",
+            "driver_id": 68582,
+            "device_types_id": 37
+        },
+        {
+            "id": 50559,
+            "plate_no": "72-9321 (6535)",
+            "code": "6535",
+            "plate_no_only": "72-9321",
+            "driver_name": "Driver803 Driver803",
+            "driver_id": 68578,
+            "device_types_id": 37
+        },
+        {
+            "id": 50657,
+            "plate_no": "72-9418 (6536)",
+            "code": "6536",
+            "plate_no_only": "72-9418",
+            "driver_name": "Driver810 Driver810",
+            "driver_id": 68702,
+            "device_types_id": 37
+        },
+        {
+            "id": 50658,
+            "plate_no": "72-9416 (6537)",
+            "code": "6537",
+            "plate_no_only": "72-9416",
+            "driver_name": "Driver811 Driver811",
+            "driver_id": 68703,
+            "device_types_id": 37
+        },
+        {
+            "id": 50655,
+            "plate_no": "72-9415 (6539)",
+            "code": "6539",
+            "plate_no_only": "72-9415",
+            "driver_name": "Driver808 Driver808",
+            "driver_id": 68700,
+            "device_types_id": 37
+        },
+        {
+            "id": 50656,
+            "plate_no": "72-9417 (6540)",
+            "code": "6540",
+            "plate_no_only": "72-9417",
+            "driver_name": "Driver809 Driver809",
+            "driver_id": 68701,
+            "device_types_id": 37
+        },
+        {
+            "id": 2337,
+            "plate_no": "71-1819 (6541)",
+            "code": "6541",
+            "plate_no_only": "71-1819",
+            "driver_name": "Driver146 Driver146",
+            "driver_id": 2441,
+            "device_types_id": 40
+        },
+        {
+            "id": 2338,
+            "plate_no": "71-2446 (6543)",
+            "code": "6543",
+            "plate_no_only": "71-2446",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 6248,
+            "plate_no": "71-4251 (6544)",
+            "code": "6544",
+            "plate_no_only": "71-4251",
+            "driver_name": "Driver429 Driver429",
+            "driver_id": 6486,
+            "device_types_id": 40
+        },
+        {
+            "id": 26914,
+            "plate_no": "71-2783 (6545)",
+            "code": "6545",
+            "plate_no_only": "71-2783",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 53905,
+            "plate_no": "71-4373 (6546)",
+            "code": "6546",
+            "plate_no_only": "71-4373",
+            "driver_name": "Driver884 Driver884",
+            "driver_id": 72982,
+            "device_types_id": 40
+        },
+        {
+            "id": 49261,
+            "plate_no": "72-8178 (6601)",
+            "code": "6601",
+            "plate_no_only": "72-8178",
+            "driver_name": "Driver725 Driver725",
+            "driver_id": 66568,
+            "device_types_id": 37
+        },
+        {
+            "id": 49260,
+            "plate_no": "72-8176 (6602)",
+            "code": "6602",
+            "plate_no_only": "72-8176",
+            "driver_name": "Driver724 Driver724",
+            "driver_id": 66567,
+            "device_types_id": 37
+        },
+        {
+            "id": 49257,
+            "plate_no": "72-8177 (6603)",
+            "code": "6603",
+            "plate_no_only": "72-8177",
+            "driver_name": "Driver722 Driver722",
+            "driver_id": 66561,
+            "device_types_id": 37
+        },
+        {
+            "id": 49256,
+            "plate_no": "72-8179 (6604)",
+            "code": "6604",
+            "plate_no_only": "72-8179",
+            "driver_name": "Driver721 Driver721",
+            "driver_id": 66560,
+            "device_types_id": 37
+        },
+        {
+            "id": 49258,
+            "plate_no": "72-8180 (6605)",
+            "code": "6605",
+            "plate_no_only": "72-8180",
+            "driver_name": "Driver723 Driver723",
+            "driver_id": 66562,
+            "device_types_id": 37
+        },
+        {
+            "id": 49339,
+            "plate_no": "72-8308 (6606)",
+            "code": "6606",
+            "plate_no_only": "72-8308",
+            "driver_name": "Driver727 Driver727",
+            "driver_id": 66678,
+            "device_types_id": 37
+        },
+        {
+            "id": 49342,
+            "plate_no": "72-8307 (6607)",
+            "code": "6607",
+            "plate_no_only": "72-8307",
+            "driver_name": "Driver730 Driver730",
+            "driver_id": 66681,
+            "device_types_id": 37
+        },
+        {
+            "id": 49343,
+            "plate_no": "72-8310 (6608)",
+            "code": "6608",
+            "plate_no_only": "72-8310",
+            "driver_name": "Driver731 Driver731",
+            "driver_id": 66682,
+            "device_types_id": 37
+        },
+        {
+            "id": 49340,
+            "plate_no": "72-8311 (6609)",
+            "code": "6609",
+            "plate_no_only": "72-8311",
+            "driver_name": "Driver728 Driver728",
+            "driver_id": 66679,
+            "device_types_id": 37
+        },
+        {
+            "id": 49341,
+            "plate_no": "72-8309 (6610)",
+            "code": "6610",
+            "plate_no_only": "72-8309",
+            "driver_name": "Driver729 Driver729",
+            "driver_id": 66680,
+            "device_types_id": 37
+        },
+        {
+            "id": 49653,
+            "plate_no": "72-8495 (6611)",
+            "code": "6611",
+            "plate_no_only": "72-8495",
+            "driver_name": "Driver741 Driver741",
+            "driver_id": 67144,
+            "device_types_id": 37
+        },
+        {
+            "id": 49652,
+            "plate_no": "72-8496 (6612)",
+            "code": "6612",
+            "plate_no_only": "72-8496",
+            "driver_name": "Driver740 Driver740",
+            "driver_id": 67143,
+            "device_types_id": 37
+        },
+        {
+            "id": 49654,
+            "plate_no": "72-8499 (6613)",
+            "code": "6613",
+            "plate_no_only": "72-8499",
+            "driver_name": "Driver742 Driver742",
+            "driver_id": 67145,
+            "device_types_id": 37
+        },
+        {
+            "id": 49655,
+            "plate_no": "72-8497 (6614)",
+            "code": "6614",
+            "plate_no_only": "72-8497",
+            "driver_name": "Driver743 Driver743",
+            "driver_id": 67146,
+            "device_types_id": 37
+        },
+        {
+            "id": 49663,
+            "plate_no": "72-8500 (6615)",
+            "code": "6615",
+            "plate_no_only": "72-8500",
+            "driver_name": "Driver746 Driver746",
+            "driver_id": 67160,
+            "device_types_id": 37
+        },
+        {
+            "id": 49659,
+            "plate_no": "72-8498 (6616)",
+            "code": "6616",
+            "plate_no_only": "72-8498",
+            "driver_name": "Driver744 Driver744",
+            "driver_id": 67156,
+            "device_types_id": 37
+        },
+        {
+            "id": 49773,
+            "plate_no": "72-8662 (6617)",
+            "code": "6617",
+            "plate_no_only": "72-8662",
+            "driver_name": "Driver757 Driver757",
+            "driver_id": 67386,
+            "device_types_id": 37
+        },
+        {
+            "id": 49775,
+            "plate_no": "72-8658 (6618)",
+            "code": "6618",
+            "plate_no_only": "72-8658",
+            "driver_name": "Driver759 Driver759",
+            "driver_id": 67388,
+            "device_types_id": 37
+        },
+        {
+            "id": 49774,
+            "plate_no": "72-8660 (6619)",
+            "code": "6619",
+            "plate_no_only": "72-8660",
+            "driver_name": "Driver758 Driver758",
+            "driver_id": 67387,
+            "device_types_id": 37
+        },
+        {
+            "id": 49772,
+            "plate_no": "72-8661 (6620)",
+            "code": "6620",
+            "plate_no_only": "72-8661",
+            "driver_name": "Driver756 Driver756",
+            "driver_id": 67385,
+            "device_types_id": 37
+        },
+        {
+            "id": 49790,
+            "plate_no": "72-8816 (6621)",
+            "code": "6621",
+            "plate_no_only": "72-8816",
+            "driver_name": "Driver762 Driver762",
+            "driver_id": 67462,
+            "device_types_id": 37
+        },
+        {
+            "id": 49789,
+            "plate_no": "72-8815 (6622)",
+            "code": "6622",
+            "plate_no_only": "72-8815",
+            "driver_name": "Driver761 Driver761",
+            "driver_id": 67461,
+            "device_types_id": 37
+        },
+        {
+            "id": 49791,
+            "plate_no": "72-8814 (6623)",
+            "code": "6623",
+            "plate_no_only": "72-8814",
+            "driver_name": "Driver763 Driver763",
+            "driver_id": 67463,
+            "device_types_id": 37
+        },
+        {
+            "id": 49788,
+            "plate_no": "72-8813 (6624)",
+            "code": "6624",
+            "plate_no_only": "72-8813",
+            "driver_name": "Driver760 Driver760",
+            "driver_id": 67460,
+            "device_types_id": 37
+        },
+        {
+            "id": 49943,
+            "plate_no": "72-8871 (6625)",
+            "code": "6625",
+            "plate_no_only": "72-8871",
+            "driver_name": "Driver771 Driver771",
+            "driver_id": 67721,
+            "device_types_id": 37
+        },
+        {
+            "id": 49940,
+            "plate_no": "72-8872 (6626)",
+            "code": "6626",
+            "plate_no_only": "72-8872",
+            "driver_name": "Driver768 Driver768",
+            "driver_id": 67718,
+            "device_types_id": 37
+        },
+        {
+            "id": 49941,
+            "plate_no": "72-8869 (6627)",
+            "code": "6627",
+            "plate_no_only": "72-8869",
+            "driver_name": "Driver769 Driver769",
+            "driver_id": 67719,
+            "device_types_id": 37
+        },
+        {
+            "id": 49945,
+            "plate_no": "72-8870 (6628)",
+            "code": "6628",
+            "plate_no_only": "72-8870",
+            "driver_name": "Driver773 Driver773",
+            "driver_id": 67723,
+            "device_types_id": 37
+        },
+        {
+            "id": 49942,
+            "plate_no": "72-8873 (6629)",
+            "code": "6629",
+            "plate_no_only": "72-8873",
+            "driver_name": "Driver770 Driver770",
+            "driver_id": 67720,
+            "device_types_id": 37
+        },
+        {
+            "id": 49944,
+            "plate_no": "72-8868 (6630)",
+            "code": "6630",
+            "plate_no_only": "72-8868",
+            "driver_name": "Driver772 Driver772",
+            "driver_id": 67722,
+            "device_types_id": 37
+        },
+        {
+            "id": 50708,
+            "plate_no": "72-9522 (6631)",
+            "code": "6631",
+            "plate_no_only": "72-9522",
+            "driver_name": "Driver823 Driver823",
+            "driver_id": 68777,
+            "device_types_id": 37
+        },
+        {
+            "id": 50717,
+            "plate_no": "72-9524 (6632)",
+            "code": "6632",
+            "plate_no_only": "72-9524",
+            "driver_name": "Driver832 Driver832",
+            "driver_id": 68786,
+            "device_types_id": 37
+        },
+        {
+            "id": 50709,
+            "plate_no": "72-9523 (6633)",
+            "code": "6633",
+            "plate_no_only": "72-9523",
+            "driver_name": "Driver824 Driver824",
+            "driver_id": 68778,
+            "device_types_id": 37
+        },
+        {
+            "id": 50711,
+            "plate_no": "72-9518 (6634)",
+            "code": "6634",
+            "plate_no_only": "72-9518",
+            "driver_name": "Driver826 Driver826",
+            "driver_id": 68780,
+            "device_types_id": 37
+        },
+        {
+            "id": 50710,
+            "plate_no": "72-9517 (6635)",
+            "code": "6635",
+            "plate_no_only": "72-9517",
+            "driver_name": "Driver825 Driver825",
+            "driver_id": 68779,
+            "device_types_id": 37
+        },
+        {
+            "id": 50713,
+            "plate_no": "72-9526 (6636)",
+            "code": "6636",
+            "plate_no_only": "72-9526",
+            "driver_name": "Driver828 Driver828",
+            "driver_id": 68782,
+            "device_types_id": 37
+        },
+        {
+            "id": 50712,
+            "plate_no": "72-9520 (6637)",
+            "code": "6637",
+            "plate_no_only": "72-9520",
+            "driver_name": "Driver827 Driver827",
+            "driver_id": 68781,
+            "device_types_id": 37
+        },
+        {
+            "id": 50714,
+            "plate_no": "72-9521 (6638)",
+            "code": "6638",
+            "plate_no_only": "72-9521",
+            "driver_name": "Driver829 Driver829",
+            "driver_id": 68783,
+            "device_types_id": 37
+        },
+        {
+            "id": 50716,
+            "plate_no": "72-9525 (6639)",
+            "code": "6639",
+            "plate_no_only": "72-9525",
+            "driver_name": "Driver831 Driver831",
+            "driver_id": 68785,
+            "device_types_id": 37
+        },
+        {
+            "id": 50715,
+            "plate_no": "72-9519 (6640)",
+            "code": "6640",
+            "plate_no_only": "72-9519",
+            "driver_name": "Driver830 Driver830",
+            "driver_id": 68784,
+            "device_types_id": 37
+        },
+        {
+            "id": 51407,
+            "plate_no": "73-0030 (6641)",
+            "code": "6641",
+            "plate_no_only": "73-0030",
+            "driver_name": "Driver842 Driver842",
+            "driver_id": 69755,
+            "device_types_id": 37
+        },
+        {
+            "id": 51408,
+            "plate_no": "73-0028 (6642)",
+            "code": "6642",
+            "plate_no_only": "73-0028",
+            "driver_name": "Driver843 Driver843",
+            "driver_id": 69756,
+            "device_types_id": 37
+        },
+        {
+            "id": 51410,
+            "plate_no": "73-0027 (6643)",
+            "code": "6643",
+            "plate_no_only": "73-0027",
+            "driver_name": "Driver845 Driver845",
+            "driver_id": 69759,
+            "device_types_id": 37
+        },
+        {
+            "id": 51411,
+            "plate_no": "73-0031 (6644)",
+            "code": "6644",
+            "plate_no_only": "73-0031",
+            "driver_name": "Driver846 Driver846",
+            "driver_id": 69760,
+            "device_types_id": 37
+        },
+        {
+            "id": 51409,
+            "plate_no": "73-0029 (6645)",
+            "code": "6645",
+            "plate_no_only": "73-0029",
+            "driver_name": "Driver844 Driver844",
+            "driver_id": 69758,
+            "device_types_id": 37
+        },
+        {
+            "id": 51832,
+            "plate_no": "73-0100 (6646)",
+            "code": "6646",
+            "plate_no_only": "73-0100",
+            "driver_name": "Driver869 Driver869",
+            "driver_id": 70303,
+            "device_types_id": 37
+        },
+        {
+            "id": 51803,
+            "plate_no": "73-0097 (6647)",
+            "code": "6647",
+            "plate_no_only": "73-0097",
+            "driver_name": "Driver865 Driver865",
+            "driver_id": 70265,
+            "device_types_id": 37
+        },
+        {
+            "id": 51801,
+            "plate_no": "73-0098 (6648)",
+            "code": "6648",
+            "plate_no_only": "73-0098",
+            "driver_name": "Driver863 Driver863",
+            "driver_id": 70263,
+            "device_types_id": 37
+        },
+        {
+            "id": 51802,
+            "plate_no": "73-0101 (6649)",
+            "code": "6649",
+            "plate_no_only": "73-0101",
+            "driver_name": "Driver864 Driver864",
+            "driver_id": 70264,
+            "device_types_id": 37
+        },
+        {
+            "id": 51804,
+            "plate_no": "73-0096 (6650)",
+            "code": "6650",
+            "plate_no_only": "73-0096",
+            "driver_name": "Driver866 Driver866",
+            "driver_id": 70266,
+            "device_types_id": 37
+        },
+        {
+            "id": 2047,
+            "plate_no": "71-1961 (6652)",
+            "code": "6652",
+            "plate_no_only": "71-1961",
+            "driver_name": "Driver128 Driver128",
+            "driver_id": 2149,
+            "device_types_id": 40
+        },
+        {
+            "id": 59236,
+            "plate_no": "71-2630 (71-2630)",
+            "code": "71-2630",
+            "plate_no_only": "71-2630",
+            "driver_name": "Driver890 Driver890",
+            "driver_id": 78544,
+            "device_types_id": 37
+        },
+        {
+            "id": 62931,
+            "plate_no": "71-2873 (71-2873)",
+            "code": "71-2873",
+            "plate_no_only": "71-2873",
+            "driver_name": "Driver893 Driver893",
+            "driver_id": 82493,
+            "device_types_id": 40
+        },
+        {
+            "id": 4233,
+            "plate_no": "71-3853 (D420(\u0e23\u0e16\u0e40\u0e02\u0e49\u0e32\u0e01\u0e23\u0e30\u0e08\u0e01\u0e2b\u0e19\u0e49\u0e32 \u0e08\u0e2d\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e39\u0e48 \u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27)",
+            "code": "D420(\u0e23\u0e16\u0e40\u0e02\u0e49\u0e32\u0e01\u0e23\u0e30\u0e08\u0e01\u0e2b\u0e19\u0e49\u0e32 \u0e08\u0e2d\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e2d\u0e39\u0e48 \u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27",
+            "plate_no_only": "71-3853",
+            "driver_name": "Driver191 Driver191",
+            "driver_id": 4378,
+            "device_types_id": 20
+        },
+        {
+            "id": 6424,
+            "plate_no": "71-5733 (F006)",
+            "code": "F006",
+            "plate_no_only": "71-5733",
+            "driver_name": "Driver435 Driver435",
+            "driver_id": 6662,
+            "device_types_id": 32
+        },
+        {
+            "id": 5501,
+            "plate_no": "71-5468 (F008)",
+            "code": "F008",
+            "plate_no_only": "71-5468",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 17001,
+            "plate_no": "71-9290 (KP99)",
+            "code": "KP99",
+            "plate_no_only": "71-9290",
+            "driver_name": "Driver497 Driver497",
+            "driver_id": 18190,
+            "device_types_id": 20
+        },
+        {
+            "id": 51815,
+            "plate_no": "73-0315 (MC011)",
+            "code": "MC011",
+            "plate_no_only": "73-0315",
+            "driver_name": "Driver868 Driver868",
+            "driver_id": 70283,
+            "device_types_id": 37
+        },
+        {
+            "id": 51814,
+            "plate_no": "73-0314 (MC012)",
+            "code": "MC012",
+            "plate_no_only": "73-0314",
+            "driver_name": "Driver867 Driver867",
+            "driver_id": 70282,
+            "device_types_id": 37
+        },
+        {
+            "id": 5252,
+            "plate_no": "71-1569 (ME001)",
+            "code": "ME001",
+            "plate_no_only": "71-1569",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 5258,
+            "plate_no": "71-1515 (ME002)",
+            "code": "ME002",
+            "plate_no_only": "71-1515",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5257,
+            "plate_no": "71-1568 (ME003)",
+            "code": "ME003",
+            "plate_no_only": "71-1568",
+            "driver_name": "\u0e41\u0e2a\u0e27\u0e07 \u0e1a\u0e38\u0e23\u0e32\u0e13\u0e04\u0e38\u0e13",
+            "driver_id": 80247,
+            "device_types_id": 32
+        },
+        {
+            "id": 5264,
+            "plate_no": "71-1570 (ME004)",
+            "code": "ME004",
+            "plate_no_only": "71-1570",
+            "driver_name": "\u0e22\u0e07\u0e22\u0e38\u0e17\u0e18 \u0e19\u0e32\u0e21\u0e0a\u0e30\u0e19\u0e30",
+            "driver_id": 82299,
+            "device_types_id": 32
+        },
+        {
+            "id": 5263,
+            "plate_no": "71-1571 (ME005)",
+            "code": "ME005",
+            "plate_no_only": "71-1571",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5261,
+            "plate_no": "71-1567 (ME007)",
+            "code": "ME007",
+            "plate_no_only": "71-1567",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5163,
+            "plate_no": "71-1959 (ME008)",
+            "code": "ME008",
+            "plate_no_only": "71-1959",
+            "driver_name": "\u0e18\u0e32\u0e19\u0e35 \u0e44\u0e01\u0e23\u0e17\u0e2d\u0e07",
+            "driver_id": 8462,
+            "device_types_id": 32
+        },
+        {
+            "id": 24319,
+            "plate_no": "71-1956 (ME009)",
+            "code": "ME009",
+            "plate_no_only": "71-1956",
+            "driver_name": "\u0e2a\u0e21\u0e14\u0e35 \u0e04\u0e07\u0e40\u0e04\u0e19",
+            "driver_id": 5629,
+            "device_types_id": 32
+        },
+        {
+            "id": 5250,
+            "plate_no": "71-1951 (ME011)",
+            "code": "ME011",
+            "plate_no_only": "71-1951",
+            "driver_name": "\u0e18\u0e35\u0e23\u0e30\u0e1e\u0e07\u0e28\u0e4c \u0e15\u0e32\u0e1a\u0e17\u0e2d\u0e07",
+            "driver_id": 5717,
+            "device_types_id": 32
+        },
+        {
+            "id": 5306,
+            "plate_no": "71-1952 (ME015)",
+            "code": "ME015",
+            "plate_no_only": "71-1952",
+            "driver_name": "\u0e1a\u0e38\u0e0d\u0e21\u0e35 \u0e04\u0e33\u0e14\u0e35",
+            "driver_id": 5679,
+            "device_types_id": 37
+        },
+        {
+            "id": 5197,
+            "plate_no": "71-2515 (ME016)",
+            "code": "ME016",
+            "plate_no_only": "71-2515",
+            "driver_name": "\u0e27\u0e35\u0e23\u0e30\u0e22\u0e38\u0e17\u0e18 \u0e28\u0e23\u0e35\u0e1a\u0e38\u0e0d\u0e40\u0e23\u0e37\u0e2d\u0e07",
+            "driver_id": 82295,
+            "device_types_id": 32
+        },
+        {
+            "id": 5168,
+            "plate_no": "71-2381 (ME017)",
+            "code": "ME017",
+            "plate_no_only": "71-2381",
+            "driver_name": "\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e4c \u0e02\u0e22\u0e31\u0e19\u0e02\u0e32\u0e22",
+            "driver_id": 81575,
+            "device_types_id": 32
+        },
+        {
+            "id": 5253,
+            "plate_no": "71-2380 (ME018)",
+            "code": "ME018",
+            "plate_no_only": "71-2380",
+            "driver_name": "\u0e27\u0e31\u0e0a\u0e23\u0e27\u0e34\u0e17\u0e22\u0e4c \u0e17\u0e31\u0e14\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c",
+            "driver_id": 82490,
+            "device_types_id": 37
+        },
+        {
+            "id": 5192,
+            "plate_no": "71-2379 (ME019)",
+            "code": "ME019",
+            "plate_no_only": "71-2379",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 5216,
+            "plate_no": "71-2874 (ME023)",
+            "code": "ME023",
+            "plate_no_only": "71-2874",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 4232,
+            "plate_no": "71-3911 (ME025)",
+            "code": "ME025",
+            "plate_no_only": "71-3911",
+            "driver_name": "\u0e2d\u0e33\u0e1e\u0e25 \u0e25\u0e48\u0e32\u0e21\u0e01\u0e23\u0e30\u0e42\u0e17\u0e01",
+            "driver_id": 83313,
+            "device_types_id": 37
+        },
+        {
+            "id": 5273,
+            "plate_no": "71-2818 (ME026)",
+            "code": "ME026",
+            "plate_no_only": "71-2818",
+            "driver_name": "\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13 \u0e27\u0e23\u0e23\u0e13\u0e27\u0e31\u0e12\u0e19\u0e4c",
+            "driver_id": 83150,
+            "device_types_id": 32
+        },
+        {
+            "id": 5203,
+            "plate_no": "71-2820 (ME027)",
+            "code": "ME027",
+            "plate_no_only": "71-2820",
+            "driver_name": "\u0e02\u0e27\u0e31\u0e0d\u0e0a\u0e31\u0e22 \u0e41\u0e2a\u0e19\u0e01\u0e31\u0e19\u0e22\u0e32",
+            "driver_id": 63287,
+            "device_types_id": 37
+        },
+        {
+            "id": 5272,
+            "plate_no": "71-2817 (ME028)",
+            "code": "ME028",
+            "plate_no_only": "71-2817",
+            "driver_name": "\u0e19\u0e34\u0e1e\u0e19\u0e18\u0e4c \u0e18\u0e23\u0e23\u0e21\u0e42\u0e23\u0e40\u0e27\u0e0a\u0e19\u0e4c",
+            "driver_id": 81424,
+            "device_types_id": 37
+        },
+        {
+            "id": 5162,
+            "plate_no": "71-2816 (ME029)",
+            "code": "ME029",
+            "plate_no_only": "71-2816",
+            "driver_name": "\u0e1e\u0e07\u0e29\u0e4c\u0e28\u0e34\u0e23\u0e34\u0e19\u0e19\u0e17\u0e4c \u0e20\u0e39\u0e01\u0e2d\u0e07\u0e0a\u0e31\u0e22",
+            "driver_id": 83315,
+            "device_types_id": 32
+        },
+        {
+            "id": 5173,
+            "plate_no": "71-2819 (ME030)",
+            "code": "ME030",
+            "plate_no_only": "71-2819",
+            "driver_name": "\u0e23\u0e30\u0e21\u0e48\u0e2d\u0e21 \u0e17\u0e31\u0e28\u0e1e\u0e07\u0e29\u0e4c",
+            "driver_id": 83223,
+            "device_types_id": 37
+        },
+        {
+            "id": 5177,
+            "plate_no": "71-1955 (ME031)",
+            "code": "ME031",
+            "plate_no_only": "71-1955",
+            "driver_name": "\u0e0a\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35",
+            "driver_id": 5580,
+            "device_types_id": 37
+        },
+        {
+            "id": 43376,
+            "plate_no": "71-3912 (ME033)",
+            "code": "ME033",
+            "plate_no_only": "71-3912",
+            "driver_name": "\u0e44\u0e1e\u0e17\u0e39\u0e23\u0e22\u0e4c \u0e41\u0e15\u0e07\u0e2a\u0e35\u0e19\u0e27\u0e19",
+            "driver_id": 83289,
+            "device_types_id": 32
+        },
+        {
+            "id": 5371,
+            "plate_no": "71-3559 (ME035)",
+            "code": "ME035",
+            "plate_no_only": "71-3559",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5209,
+            "plate_no": "71-3563 (ME036)",
+            "code": "ME036",
+            "plate_no_only": "71-3563",
+            "driver_name": "\u0e40\u0e23\u0e34\u0e48\u0e21 \u0e28\u0e23\u0e35\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e4c",
+            "driver_id": 71719,
+            "device_types_id": 32
+        },
+        {
+            "id": 5251,
+            "plate_no": "71-3549 (ME037)",
+            "code": "ME037",
+            "plate_no_only": "71-3549",
+            "driver_name": "\u0e1a\u0e38\u0e0d\u0e40\u0e25\u0e34\u0e28 \u0e17\u0e34\u0e1e\u0e22\u0e4c\u0e2a\u0e21\u0e1a\u0e31\u0e15\u0e34",
+            "driver_id": 83148,
+            "device_types_id": 32
+        },
+        {
+            "id": 5211,
+            "plate_no": "71-3565 (ME038)",
+            "code": "ME038",
+            "plate_no_only": "71-3565",
+            "driver_name": "\u0e21\u0e32\u0e19\u0e30 \u0e40\u0e28\u0e23\u0e29\u0e10\u0e1a\u0e38\u0e15\u0e23",
+            "driver_id": 82774,
+            "device_types_id": 37
+        },
+        {
+            "id": 5301,
+            "plate_no": "71-3562 (ME039)",
+            "code": "ME039",
+            "plate_no_only": "71-3562",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5213,
+            "plate_no": "71-3570 (ME040)",
+            "code": "ME040",
+            "plate_no_only": "71-3570",
+            "driver_name": "\u0e01\u0e31\u0e19\u0e22\u0e32 \u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e1e\u0e25",
+            "driver_id": 82962,
+            "device_types_id": 32
+        },
+        {
+            "id": 5198,
+            "plate_no": "71-3558 (ME041)",
+            "code": "ME041",
+            "plate_no_only": "71-3558",
+            "driver_name": "\u0e2a\u0e38\u0e20\u0e32\u0e1e \u0e25\u0e38\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08",
+            "driver_id": 81455,
+            "device_types_id": 32
+        },
+        {
+            "id": 5259,
+            "plate_no": "71-3557 (ME042)",
+            "code": "ME042",
+            "plate_no_only": "71-3557",
+            "driver_name": "\u0e2d\u0e19\u0e38\u0e0a\u0e31\u0e22 \u0e01\u0e31\u0e19\u0e22\u0e32\u0e27\u0e07\u0e28\u0e4c",
+            "driver_id": 78903,
+            "device_types_id": 37
+        },
+        {
+            "id": 5246,
+            "plate_no": "71-3561 (ME043)",
+            "code": "ME043",
+            "plate_no_only": "71-3561",
+            "driver_name": "\u0e40\u0e01\u0e23\u0e35\u0e22\u0e07\u0e44\u0e01\u0e23 \u0e27\u0e34\u0e40\u0e28\u0e29\u0e41\u0e01\u0e49\u0e27",
+            "driver_id": 71732,
+            "device_types_id": 40
+        },
+        {
+            "id": 5210,
+            "plate_no": "71-3567 (ME044)",
+            "code": "ME044",
+            "plate_no_only": "71-3567",
+            "driver_name": "\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08 \u0e21\u0e07\u0e04\u0e25\u0e40\u0e02\u0e35\u0e22\u0e27",
+            "driver_id": 71737,
+            "device_types_id": 37
+        },
+        {
+            "id": 5174,
+            "plate_no": "71-3568 (ME045)",
+            "code": "ME045",
+            "plate_no_only": "71-3568",
+            "driver_name": "\u0e0a\u0e39\u0e0a\u0e32\u0e15\u0e34 \u0e2a\u0e48\u0e07\u0e01\u0e25\u0e34\u0e48\u0e19",
+            "driver_id": 71739,
+            "device_types_id": 37
+        },
+        {
+            "id": 5191,
+            "plate_no": "71-3556 (ME046)",
+            "code": "ME046",
+            "plate_no_only": "71-3556",
+            "driver_name": "\u0e0a\u0e0e\u0e32\u0e18\u0e32\u0e23 \u0e1e\u0e34\u0e17\u0e31\u0e01\u0e29\u0e4c\u0e40\u0e01\u0e35\u0e22\u0e23\u0e15\u0e34",
+            "driver_id": 71727,
+            "device_types_id": 32
+        },
+        {
+            "id": 5195,
+            "plate_no": "71-3550 (ME047)",
+            "code": "ME047",
+            "plate_no_only": "71-3550",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5248,
+            "plate_no": "71-3552 (ME048)",
+            "code": "ME048",
+            "plate_no_only": "71-3552",
+            "driver_name": "\u0e40\u0e01\u0e23\u0e35\u0e22\u0e07\u0e44\u0e01\u0e23 \u0e27\u0e23\u0e2a\u0e34\u0e07\u0e2b\u0e4c",
+            "driver_id": 71102,
+            "device_types_id": 32
+        },
+        {
+            "id": 5217,
+            "plate_no": "71-3571 (ME049)",
+            "code": "ME049",
+            "plate_no_only": "71-3571",
+            "driver_name": "\u0e40\u0e09\u0e25\u0e34\u0e21 \u0e2a\u0e38\u0e42\u0e1e\u0e18\u0e34\u0e4c",
+            "driver_id": 77398,
+            "device_types_id": 32
+        },
+        {
+            "id": 5262,
+            "plate_no": "71-3566 (ME050)",
+            "code": "ME050",
+            "plate_no_only": "71-3566",
+            "driver_name": "\u0e2a\u0e24\u0e29\u0e0e\u0e4c \u0e08\u0e33\u0e1b\u0e32\u0e41\u0e01\u0e49\u0e27",
+            "driver_id": 25744,
+            "device_types_id": 37
+        },
+        {
+            "id": 5218,
+            "plate_no": "71-3551 (ME052)",
+            "code": "ME052",
+            "plate_no_only": "71-3551",
+            "driver_name": "\u0e40\u0e09\u0e25\u0e34\u0e21\u0e28\u0e23\u0e35 \u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c\u0e40\u0e2d\u0e01",
+            "driver_id": 79355,
+            "device_types_id": 32
+        },
+        {
+            "id": 5309,
+            "plate_no": "71-3569 (ME053)",
+            "code": "ME053",
+            "plate_no_only": "71-3569",
+            "driver_name": "\u0e2d\u0e33\u0e19\u0e32\u0e08 \u0e1b\u0e25\u0e39\u0e01\u0e07\u0e32\u0e21",
+            "driver_id": 82934,
+            "device_types_id": 32
+        },
+        {
+            "id": 5190,
+            "plate_no": "71-4450 (ME054)",
+            "code": "ME054",
+            "plate_no_only": "71-4450",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5180,
+            "plate_no": "71-4447 (ME055)",
+            "code": "ME055",
+            "plate_no_only": "71-4447",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 5202,
+            "plate_no": "71-4452 (ME056)",
+            "code": "ME056",
+            "plate_no_only": "71-4452",
+            "driver_name": "\u0e2a\u0e38\u0e40\u0e21\u0e18 \u0e40\u0e1e\u0e0a\u0e23\u0e41\u0e01\u0e49\u0e27",
+            "driver_id": 71740,
+            "device_types_id": 32
+        },
+        {
+            "id": 5152,
+            "plate_no": "71-4454 (ME057)",
+            "code": "ME057",
+            "plate_no_only": "71-4454",
+            "driver_name": "\u0e2a\u0e21\u0e2b\u0e21\u0e32\u0e22 \u0e2d\u0e31\u0e04\u0e23\u0e0a\u0e32\u0e15\u0e34",
+            "driver_id": 47392,
+            "device_types_id": 32
+        },
+        {
+            "id": 5164,
+            "plate_no": "71-4456 (ME058)",
+            "code": "ME058",
+            "plate_no_only": "71-4456",
+            "driver_name": "\u0e04\u0e13\u0e34\u0e15 \u0e40\u0e28\u0e29\u0e40\u0e27\u0e15\u0e01\u0e34\u0e08",
+            "driver_id": 59352,
+            "device_types_id": 37
+        },
+        {
+            "id": 5199,
+            "plate_no": "71-4451 (ME059)",
+            "code": "ME059",
+            "plate_no_only": "71-4451",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 5215,
+            "plate_no": "71-4442 (ME060)",
+            "code": "ME060",
+            "plate_no_only": "71-4442",
+            "driver_name": "\u0e14\u0e2d\u0e01\u0e14\u0e34\u0e19 \u0e40\u0e1e\u0e0a\u0e23\u0e21\u0e13\u0e35",
+            "driver_id": 76676,
+            "device_types_id": 32
+        },
+        {
+            "id": 5194,
+            "plate_no": "71-4441 (ME061)",
+            "code": "ME061",
+            "plate_no_only": "71-4441",
+            "driver_name": "\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c \u0e07\u0e32\u0e21\u0e40\u0e01\u0e29",
+            "driver_id": 83314,
+            "device_types_id": 37
+        },
+        {
+            "id": 5161,
+            "plate_no": "71-4434 (ME062)",
+            "code": "ME062",
+            "plate_no_only": "71-4434",
+            "driver_name": "\u0e19\u0e07 \u0e41\u0e01\u0e49\u0e27\u0e25\u0e49\u0e2d\u0e21",
+            "driver_id": 9148,
+            "device_types_id": 32
+        },
+        {
+            "id": 5193,
+            "plate_no": "71-4453 (ME063)",
+            "code": "ME063",
+            "plate_no_only": "71-4453",
+            "driver_name": "\u0e04\u0e33\u0e20\u0e39 \u0e1b\u0e23\u0e30\u0e2a\u0e21\u0e2a\u0e21\u0e31\u0e22",
+            "driver_id": 55483,
+            "device_types_id": 32
+        },
+        {
+            "id": 5214,
+            "plate_no": "71-4439 (ME064)",
+            "code": "ME064",
+            "plate_no_only": "71-4439",
+            "driver_name": "\u0e0a\u0e31\u0e0a\u0e27\u0e32\u0e25\u0e22\u0e4c \u0e21\u0e19\u0e31\u0e0d\u0e0a\u0e31\u0e22\u0e18\u0e23\u0e23\u0e21",
+            "driver_id": 32020,
+            "device_types_id": 37
+        },
+        {
+            "id": 5212,
+            "plate_no": "71-4440 (ME065)",
+            "code": "ME065",
+            "plate_no_only": "71-4440",
+            "driver_name": "\u0e08\u0e34\u0e13\u0e31\u0e10\u0e01\u0e31\u0e0d\u0e10\u0e4c \u0e44\u0e1e\u0e23\u0e34\u0e29",
+            "driver_id": 68745,
+            "device_types_id": 37
+        },
+        {
+            "id": 5179,
+            "plate_no": "71-4443 (ME066)",
+            "code": "ME066",
+            "plate_no_only": "71-4443",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e1b\u0e23\u0e31\u0e07",
+            "driver_id": 66586,
+            "device_types_id": 37
+        },
+        {
+            "id": 5310,
+            "plate_no": "71-4458 (ME067)",
+            "code": "ME067",
+            "plate_no_only": "71-4458",
+            "driver_name": "\u0e2d\u0e19\u0e38\u0e2a\u0e23 \u0e04\u0e33\u0e17\u0e2d\u0e07",
+            "driver_id": 73436,
+            "device_types_id": 40
+        },
+        {
+            "id": 5167,
+            "plate_no": "71-4457 (ME068)",
+            "code": "ME068",
+            "plate_no_only": "71-4457",
+            "driver_name": "\u0e18\u0e07\u0e0a\u0e31\u0e22 \u0e2d\u0e32\u0e23\u0e35\u0e22\u0e4c",
+            "driver_id": 5590,
+            "device_types_id": 32
+        },
+        {
+            "id": 10093,
+            "plate_no": "71-7386 (ME069)",
+            "code": "ME069",
+            "plate_no_only": "71-7386",
+            "driver_name": "\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e1e\u0e07\u0e29\u0e4c \u0e02\u0e38\u0e19\u0e17\u0e2d\u0e07",
+            "driver_id": 9143,
+            "device_types_id": 32
+        },
+        {
+            "id": 10156,
+            "plate_no": "71-7387 (ME070)",
+            "code": "ME070",
+            "plate_no_only": "71-7387",
+            "driver_name": "\u0e2a\u0e19\u0e31\u0e48\u0e19 \u0e04\u0e33\u0e21\u0e39\u0e25",
+            "driver_id": 26893,
+            "device_types_id": 32
+        },
+        {
+            "id": 10175,
+            "plate_no": "71-7388 (ME071)",
+            "code": "ME071",
+            "plate_no_only": "71-7388",
+            "driver_name": "\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22\u0e1a \u0e08\u0e34\u0e4b\u0e27\u0e19\u0e32\u0e07\u0e19\u0e2d\u0e07",
+            "driver_id": 73429,
+            "device_types_id": 20
+        },
+        {
+            "id": 10094,
+            "plate_no": "71-7389 (ME072)",
+            "code": "ME072",
+            "plate_no_only": "71-7389",
+            "driver_name": "\u0e2d\u0e19\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e2a\u0e32\u0e22\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+            "driver_id": 81015,
+            "device_types_id": 37
+        },
+        {
+            "id": 10095,
+            "plate_no": "71-7390 (ME073)",
+            "code": "ME073",
+            "plate_no_only": "71-7390",
+            "driver_name": "\u0e08\u0e35\u0e23\u0e30\u0e40\u0e14\u0e0a \u0e1a\u0e38\u0e0d\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10",
+            "driver_id": 67334,
+            "device_types_id": 32
+        },
+        {
+            "id": 10176,
+            "plate_no": "71-7391 (ME074)",
+            "code": "ME074",
+            "plate_no_only": "71-7391",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 10177,
+            "plate_no": "71-7393 (ME075)",
+            "code": "ME075",
+            "plate_no_only": "71-7393",
+            "driver_name": "\u0e40\u0e2a\u0e21\u0e35\u0e22\u0e19 \u0e40\u0e08\u0e34\u0e07\u0e23\u0e31\u0e21\u0e22\u0e4c",
+            "driver_id": 71735,
+            "device_types_id": 20
+        },
+        {
+            "id": 10178,
+            "plate_no": "71-7394 (ME076)",
+            "code": "ME076",
+            "plate_no_only": "71-7394",
+            "driver_name": "\u0e13\u0e31\u0e10\u0e1e\u0e25 \u0e28\u0e38\u0e20\u0e40\u0e25\u0e34\u0e28",
+            "driver_id": 71041,
+            "device_types_id": 20
+        },
+        {
+            "id": 10179,
+            "plate_no": "71-7392 (ME077)",
+            "code": "ME077",
+            "plate_no_only": "71-7392",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 \u0e01\u0e2d\u0e07\u0e0a\u0e31\u0e22",
+            "driver_id": 77713,
+            "device_types_id": 20
+        },
+        {
+            "id": 10180,
+            "plate_no": "71-7395 (ME078)",
+            "code": "ME078",
+            "plate_no_only": "71-7395",
+            "driver_name": "\u0e01\u0e23\u0e01\u0e19\u0e01 \u0e42\u0e25\u0e23\u0e32\u0e0a",
+            "driver_id": 75669,
+            "device_types_id": 20
+        },
+        {
+            "id": 10182,
+            "plate_no": "71-7396 (ME079)",
+            "code": "ME079",
+            "plate_no_only": "71-7396",
+            "driver_name": "\u0e1e\u0e34\u0e19\u0e34\u0e08\u0e27\u0e07\u0e28\u0e4c \u0e44\u0e0a\u0e22\u0e27\u0e07\u0e28\u0e4c",
+            "driver_id": 8406,
+            "device_types_id": 20
+        },
+        {
+            "id": 10181,
+            "plate_no": "71-7397 (ME080)",
+            "code": "ME080",
+            "plate_no_only": "71-7397",
+            "driver_name": "\u0e27\u0e34\u0e02\u0e31\u0e22 \u0e40\u0e40\u0e27\u0e07\u0e27\u0e23\u0e23\u0e13",
+            "driver_id": 82110,
+            "device_types_id": 20
+        },
+        {
+            "id": 10283,
+            "plate_no": "71-7463 (ME081)",
+            "code": "ME081",
+            "plate_no_only": "71-7463",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 10284,
+            "plate_no": "71-7464 (ME082)",
+            "code": "ME082",
+            "plate_no_only": "71-7464",
+            "driver_name": "\u0e18\u0e27\u0e31\u0e0a\u0e0a\u0e31\u0e22 \u0e40\u0e2a\u0e21\u0e32\u0e17\u0e2d\u0e07",
+            "driver_id": 81630,
+            "device_types_id": 32
+        },
+        {
+            "id": 10285,
+            "plate_no": "71-7465 (ME083)",
+            "code": "ME083",
+            "plate_no_only": "71-7465",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 18607,
+            "plate_no": "71-9460 (ME084)",
+            "code": "ME084",
+            "plate_no_only": "71-9460",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 18608,
+            "plate_no": "71-9461 (ME085)",
+            "code": "ME085",
+            "plate_no_only": "71-9461",
+            "driver_name": "\u0e2b\u0e32\u0e0d \u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e2d\u0e48\u0e2d\u0e07",
+            "driver_id": 81342,
+            "device_types_id": 20
+        },
+        {
+            "id": 18609,
+            "plate_no": "71-9462 (ME086)",
+            "code": "ME086",
+            "plate_no_only": "71-9462",
+            "driver_name": "\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e2b\u0e31\u0e15\u0e16\u0e31\u0e07",
+            "driver_id": 82285,
+            "device_types_id": 20
+        },
+        {
+            "id": 18610,
+            "plate_no": "71-9463 (ME087)",
+            "code": "ME087",
+            "plate_no_only": "71-9463",
+            "driver_name": "\u0e0a\u0e22\u0e1e\u0e25 \u0e2a\u0e34\u0e23\u0e34\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e20\u0e31\u0e17\u0e23",
+            "driver_id": 67338,
+            "device_types_id": 20
+        },
+        {
+            "id": 18611,
+            "plate_no": "71-9464 (ME088)",
+            "code": "ME088",
+            "plate_no_only": "71-9464",
+            "driver_name": "\u0e04\u0e07\u0e01\u0e24\u0e0a \u0e15\u0e2d\u0e1a\u0e01\u0e25\u0e32\u0e07",
+            "driver_id": 76488,
+            "device_types_id": 20
+        },
+        {
+            "id": 18722,
+            "plate_no": "71-9465 (ME089)",
+            "code": "ME089",
+            "plate_no_only": "71-9465",
+            "driver_name": "\u0e1a\u0e38\u0e0d\u0e40\u0e2a\u0e23\u0e34\u0e21 \u0e0a\u0e0f\u0e32\u0e17\u0e2d\u0e07",
+            "driver_id": 80426,
+            "device_types_id": 20
+        },
+        {
+            "id": 18725,
+            "plate_no": "71-9466 (ME090)",
+            "code": "ME090",
+            "plate_no_only": "71-9466",
+            "driver_name": "\u0e08\u0e34\u0e23\u0e32\u0e22\u0e38 \u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e43\u0e2b\u0e0d\u0e48",
+            "driver_id": 77383,
+            "device_types_id": 20
+        },
+        {
+            "id": 18723,
+            "plate_no": "71-9467 (ME091)",
+            "code": "ME091",
+            "plate_no_only": "71-9467",
+            "driver_name": "\u0e2d\u0e14\u0e34\u0e28\u0e23 \u0e18\u0e34\u0e08\u0e23",
+            "driver_id": 77396,
+            "device_types_id": 20
+        },
+        {
+            "id": 18724,
+            "plate_no": "71-9468 (ME092)",
+            "code": "ME092",
+            "plate_no_only": "71-9468",
+            "driver_name": "\u0e27\u0e23\u0e23\u0e13\u0e0a\u0e31\u0e22 \u0e20\u0e39\u0e41\u0e22\u0e49\u0e21",
+            "driver_id": 73819,
+            "device_types_id": 20
+        },
+        {
+            "id": 18726,
+            "plate_no": "71-9469 (ME093)",
+            "code": "ME093",
+            "plate_no_only": "71-9469",
+            "driver_name": "\u0e2a\u0e32\u0e22\u0e0a\u0e25 \u0e08\u0e35\u0e19\u0e19\u0e32\u0e07\u0e23\u0e2d\u0e07",
+            "driver_id": 78893,
+            "device_types_id": 20
+        },
+        {
+            "id": 12423,
+            "plate_no": "71-8647 (ME094)",
+            "code": "ME094",
+            "plate_no_only": "71-8647",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 234,
+            "plate_no": "70-6296 (ME095)",
+            "code": "ME095",
+            "plate_no_only": "70-6296",
+            "driver_name": "\u0e44\u0e01\u0e48 \u0e44\u0e16\u0e2b\u0e27\u0e48\u0e32\u0e19",
+            "driver_id": 83178,
+            "device_types_id": 20
+        },
+        {
+            "id": 377,
+            "plate_no": "71-8629 (ME096)",
+            "code": "ME096",
+            "plate_no_only": "71-8629",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 236,
+            "plate_no": "70-6308 (ME097)",
+            "code": "ME097",
+            "plate_no_only": "70-6308",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e40\u0e2a\u0e23\u0e34\u0e10 \u0e40\u0e1e\u0e47\u0e0a\u0e23\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c",
+            "driver_id": 57986,
+            "device_types_id": 20
+        },
+        {
+            "id": 192,
+            "plate_no": "70-6307 (ME101)",
+            "code": "ME101",
+            "plate_no_only": "70-6307",
+            "driver_name": "\u0e27\u0e35\u0e23\u0e30\u0e1e\u0e25 \u0e0a\u0e2d\u0e1a\u0e19\u0e32",
+            "driver_id": 83287,
+            "device_types_id": 20
+        },
+        {
+            "id": 206,
+            "plate_no": "70-6309 (ME102)",
+            "code": "ME102",
+            "plate_no_only": "70-6309",
+            "driver_name": "\u0e19\u0e20\u0e14\u0e25 \u0e40\u0e22\u0e47\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d",
+            "driver_id": 18374,
+            "device_types_id": 20
+        },
+        {
+            "id": 5165,
+            "plate_no": "71-4648 (ME103)",
+            "code": "ME103",
+            "plate_no_only": "71-4648",
+            "driver_name": "\u0e2a\u0e38\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e1e\u0e36\u0e48\u0e07\u0e2b\u0e19\u0e39",
+            "driver_id": 56764,
+            "device_types_id": 37
+        },
+        {
+            "id": 320,
+            "plate_no": "71-8639 (ME104)",
+            "code": "ME104",
+            "plate_no_only": "71-8639",
+            "driver_name": "\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e15\u0e32",
+            "driver_id": 5720,
+            "device_types_id": 37
+        },
+        {
+            "id": 14782,
+            "plate_no": "71-3501 (ME106)",
+            "code": "ME106",
+            "plate_no_only": "71-3501",
+            "driver_name": "\u0e2a\u0e21\u0e31\u0e22 \u0e2d\u0e34\u0e19\u0e01\u0e34\u0e48\u0e07",
+            "driver_id": 67313,
+            "device_types_id": 37
+        },
+        {
+            "id": 589,
+            "plate_no": "71-0431 (ME107)",
+            "code": "ME107",
+            "plate_no_only": "71-0431",
+            "driver_name": "\u0e19\u0e1e\u0e14\u0e25 \u0e14\u0e34\u0e29\u0e0a\u0e32\u0e27\u0e19\u0e32",
+            "driver_id": 82935,
+            "device_types_id": 37
+        },
+        {
+            "id": 43356,
+            "plate_no": "71-4700 (ME108)",
+            "code": "ME108",
+            "plate_no_only": "71-4700",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 930,
+            "plate_no": "71-1273 (ME110 (\u0e23\u0e30\u0e07\u0e31\u0e1a\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e13 29\/07\/2025))",
+            "code": "ME110 (\u0e23\u0e30\u0e07\u0e31\u0e1a\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e13 29\/07\/2025)",
+            "plate_no_only": "71-1273",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 12425,
+            "plate_no": "71-8644 (ME114)",
+            "code": "ME114",
+            "plate_no_only": "71-8644",
+            "driver_name": "\u0e40\u0e1b\u0e23\u0e35\u0e48\u0e22\u0e21 \u0e1a\u0e38\u0e15\u0e30\u0e40\u0e02\u0e35\u0e22\u0e27",
+            "driver_id": 8959,
+            "device_types_id": 20
+        },
+        {
+            "id": 12427,
+            "plate_no": "71-8643 (ME115)",
+            "code": "ME115",
+            "plate_no_only": "71-8643",
+            "driver_name": "\u0e27\u0e31\u0e19\u0e0a\u0e31\u0e22 \u0e17\u0e49\u0e2d\u0e07\u0e41\u0e21\u0e49\u0e19",
+            "driver_id": 83155,
+            "device_types_id": 20
+        },
+        {
+            "id": 372,
+            "plate_no": "71-8625 (ME117)",
+            "code": "ME117",
+            "plate_no_only": "71-8625",
+            "driver_name": "\u0e2a\u0e21\u0e1e\u0e07\u0e29\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e25\u0e49\u0e2d\u0e21",
+            "driver_id": 5596,
+            "device_types_id": 32
+        },
+        {
+            "id": 326,
+            "plate_no": "71-8632 (ME118)",
+            "code": "ME118",
+            "plate_no_only": "71-8632",
+            "driver_name": "\u0e40\u0e25\u0e35\u0e22\u0e27 \u0e19\u0e38\u0e0a\u0e01\u0e25\u0e32\u0e07",
+            "driver_id": 5632,
+            "device_types_id": 37
+        },
+        {
+            "id": 23834,
+            "plate_no": "71-9906 (ME121)",
+            "code": "ME121",
+            "plate_no_only": "71-9906",
+            "driver_name": "\u0e2a\u0e38\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e43\u0e08\u0e1b\u0e25\u0e37\u0e49\u0e21",
+            "driver_id": 71716,
+            "device_types_id": 20
+        },
+        {
+            "id": 23837,
+            "plate_no": "71-9911 (ME122)",
+            "code": "ME122",
+            "plate_no_only": "71-9911",
+            "driver_name": "\u0e2a\u0e21\u0e1e\u0e07\u0e29\u0e4c \u0e42\u0e15\u0e44\u0e17\u0e22\u0e30",
+            "driver_id": 83149,
+            "device_types_id": 20
+        },
+        {
+            "id": 23835,
+            "plate_no": "71-9910 (ME123)",
+            "code": "ME123",
+            "plate_no_only": "71-9910",
+            "driver_name": "\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c \u0e1a\u0e31\u0e27\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+            "driver_id": 81662,
+            "device_types_id": 20
+        },
+        {
+            "id": 23838,
+            "plate_no": "71-9908 (ME124)",
+            "code": "ME124",
+            "plate_no_only": "71-9908",
+            "driver_name": "\u0e40\u0e15\u0e27\u0e34\u0e0a \u0e2b\u0e25\u0e2d\u0e21\u0e1e\u0e25\u0e17\u0e31\u0e19",
+            "driver_id": 79906,
+            "device_types_id": 20
+        },
+        {
+            "id": 23836,
+            "plate_no": "71-9912 (ME125)",
+            "code": "ME125",
+            "plate_no_only": "71-9912",
+            "driver_name": "\u0e2a\u0e21\u0e1e\u0e07\u0e29\u0e4c \u0e1e\u0e25\u0e15\u0e23\u0e35",
+            "driver_id": 59295,
+            "device_types_id": 20
+        },
+        {
+            "id": 23882,
+            "plate_no": "71-9915 (ME126)",
+            "code": "ME126",
+            "plate_no_only": "71-9915",
+            "driver_name": "\u0e18\u0e19\u0e27\u0e23\u0e23\u0e18\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2a\u0e23\u0e49\u0e2d\u0e22",
+            "driver_id": 81014,
+            "device_types_id": 20
+        },
+        {
+            "id": 23847,
+            "plate_no": "71-9907 (ME127)",
+            "code": "ME127",
+            "plate_no_only": "71-9907",
+            "driver_name": "\u0e27\u0e34\u0e19\u0e31\u0e22 \u0e27\u0e23\u0e23\u0e13\u0e20\u0e32",
+            "driver_id": 83206,
+            "device_types_id": 20
+        },
+        {
+            "id": 23881,
+            "plate_no": "71-9914 (ME128)",
+            "code": "ME128",
+            "plate_no_only": "71-9914",
+            "driver_name": "\u0e1e\u0e35\u0e23\u0e30\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c \u0e2a\u0e33\u0e23\u0e27\u0e21\u0e43\u0e08",
+            "driver_id": 71729,
+            "device_types_id": 20
+        },
+        {
+            "id": 23880,
+            "plate_no": "71-9913 (ME129)",
+            "code": "ME129",
+            "plate_no_only": "71-9913",
+            "driver_name": "\u0e1e\u0e22\u0e38\u0e2b\u0e4c\u0e20\u0e31\u0e17\u0e23 \u0e2a\u0e35\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07",
+            "driver_id": 50669,
+            "device_types_id": 20
+        },
+        {
+            "id": 23848,
+            "plate_no": "71-9916 (ME130)",
+            "code": "ME130",
+            "plate_no_only": "71-9916",
+            "driver_name": "\u0e2a\u0e38\u0e20\u0e32\u0e1e \u0e2a\u0e31\u0e07\u0e27\u0e23\u0e13\u0e4c",
+            "driver_id": 80077,
+            "device_types_id": 20
+        },
+        {
+            "id": 25299,
+            "plate_no": "72-0201 (ME131)",
+            "code": "ME131",
+            "plate_no_only": "72-0201",
+            "driver_name": "\u0e2d\u0e38\u0e14\u0e21 \u0e40\u0e0b\u0e35\u0e22\u0e07\u0e42\u0e2a",
+            "driver_id": 81663,
+            "device_types_id": 20
+        },
+        {
+            "id": 25298,
+            "plate_no": "72-0202 (ME132)",
+            "code": "ME132",
+            "plate_no_only": "72-0202",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 37634,
+            "plate_no": "71-8646 (ME133)",
+            "code": "ME133",
+            "plate_no_only": "71-8646",
+            "driver_name": "\u0e18\u0e35\u0e23\u0e4c\u0e18\u0e27\u0e31\u0e0a \u0e1b\u0e23\u0e30\u0e17\u0e38\u0e21\u0e0a\u0e32\u0e15\u0e34",
+            "driver_id": 83163,
+            "device_types_id": 32
+        },
+        {
+            "id": 44069,
+            "plate_no": "70-6295 (ME134)",
+            "code": "ME134",
+            "plate_no_only": "70-6295",
+            "driver_name": "\u0e40\u0e2a\u0e16\u0e35\u0e22\u0e23 \u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e4c",
+            "driver_id": 7161,
+            "device_types_id": 37
+        },
+        {
+            "id": 44073,
+            "plate_no": "70-6298 (ME135)",
+            "code": "ME135",
+            "plate_no_only": "70-6298",
+            "driver_name": "\u0e21\u0e19\u0e15\u0e4c\u0e0a\u0e31\u0e22 \u0e13 \u0e2a\u0e32\u0e21\u0e1e\u0e23\u0e30\u0e22\u0e32",
+            "driver_id": 81007,
+            "device_types_id": 20
+        },
+        {
+            "id": 374,
+            "plate_no": "70-6291 (ME141)",
+            "code": "ME141",
+            "plate_no_only": "70-6291",
+            "driver_name": "\u0e01\u0e31\u0e0d\u0e08\u0e19\u0e4c \u0e1e\u0e23\u0e21\u0e21\u0e30",
+            "driver_id": 15361,
+            "device_types_id": 32
+        },
+        {
+            "id": 328,
+            "plate_no": "70-6306 (ME144)",
+            "code": "ME144",
+            "plate_no_only": "70-6306",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 228,
+            "plate_no": "71-8622 (ME145)",
+            "code": "ME145",
+            "plate_no_only": "71-8622",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e14\u0e31\u0e1a \u0e2a\u0e38\u0e1a\u0e23\u0e23\u0e40\u0e17\u0e34\u0e07",
+            "driver_id": 50879,
+            "device_types_id": 20
+        },
+        {
+            "id": 382,
+            "plate_no": "71-8621 (ME146)",
+            "code": "ME146",
+            "plate_no_only": "71-8621",
+            "driver_name": "\u0e40\u0e23\u0e34\u0e07\u0e24\u0e17\u0e18\u0e34\u0e4c \u0e0a\u0e31\u0e22\u0e1b\u0e25\u0e37\u0e49\u0e21",
+            "driver_id": 25867,
+            "device_types_id": 20
+        },
+        {
+            "id": 375,
+            "plate_no": "70-6293 (ME147)",
+            "code": "ME147",
+            "plate_no_only": "70-6293",
+            "driver_name": "\u0e2a\u0e07\u0e48\u0e32 \u0e1e\u0e31\u0e14\u0e1e\u0e23\u0e21",
+            "driver_id": 51087,
+            "device_types_id": 20
+        },
+        {
+            "id": 203,
+            "plate_no": "70-6303 (ME148)",
+            "code": "ME148",
+            "plate_no_only": "70-6303",
+            "driver_name": "\u0e02\u0e27\u0e31\u0e0d\u0e21\u0e31\u0e48\u0e19 \u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e28\u0e23\u0e35",
+            "driver_id": 51299,
+            "device_types_id": 37
+        },
+        {
+            "id": 202,
+            "plate_no": "70-6300 (ME151)",
+            "code": "ME151",
+            "plate_no_only": "70-6300",
+            "driver_name": "\u0e1e\u0e34\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c \u0e1a\u0e38\u0e0d\u0e04\u0e23\u0e2d\u0e07",
+            "driver_id": 52134,
+            "device_types_id": 37
+        },
+        {
+            "id": 221,
+            "plate_no": "71-8635 (ME152)",
+            "code": "ME152",
+            "plate_no_only": "71-8635",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 43373,
+            "plate_no": "71-4372 (ME159)",
+            "code": "ME159",
+            "plate_no_only": "71-4372",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 204,
+            "plate_no": "70-6305 (ME161)",
+            "code": "ME161",
+            "plate_no_only": "70-6305",
+            "driver_name": "\u0e2d\u0e14\u0e34\u0e19\u0e31\u0e19\u0e17\u0e4c \u0e25\u0e37\u0e2d\u0e04\u0e33\u0e2b\u0e32\u0e23",
+            "driver_id": 81011,
+            "device_types_id": 26
+        },
+        {
+            "id": 184,
+            "plate_no": "71-8623 (ME162)",
+            "code": "ME162",
+            "plate_no_only": "71-8623",
+            "driver_name": "\u0e2a\u0e19\u0e18\u0e22\u0e32 \u0e2a\u0e32\u0e23\u0e30\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c",
+            "driver_id": 67706,
+            "device_types_id": 37
+        },
+        {
+            "id": 5207,
+            "plate_no": "71-4371 (ME165)",
+            "code": "ME165",
+            "plate_no_only": "71-4371",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 224,
+            "plate_no": "70-6310 (ME166)",
+            "code": "ME166",
+            "plate_no_only": "70-6310",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 2339,
+            "plate_no": "71-1817 (ME167)",
+            "code": "ME167",
+            "plate_no_only": "71-1817",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 52813,
+            "plate_no": "71-8627 (ME168)",
+            "code": "ME168",
+            "plate_no_only": "71-8627",
+            "driver_name": "\u0e1b\u0e23\u0e31\u0e0a\u0e0d\u0e32 \u0e0b\u0e32\u0e40\u0e27\u0e35\u0e22\u0e23\u0e4c",
+            "driver_id": 83235,
+            "device_types_id": 20
+        },
+        {
+            "id": 49096,
+            "plate_no": "72-8031 (ME201)",
+            "code": "ME201",
+            "plate_no_only": "72-8031",
+            "driver_name": "\u0e2a\u0e21\u0e1e\u0e07\u0e29\u0e4c \u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e40\u0e16\u0e37\u0e48\u0e2d\u0e19",
+            "driver_id": 5616,
+            "device_types_id": 37
+        },
+        {
+            "id": 49092,
+            "plate_no": "72-8029 (ME202)",
+            "code": "ME202",
+            "plate_no_only": "72-8029",
+            "driver_name": "\u0e40\u0e2d\u0e35\u0e48\u0e22\u0e21 \u0e28\u0e23\u0e35\u0e1e\u0e07\u0e29\u0e4c",
+            "driver_id": 81006,
+            "device_types_id": 37
+        },
+        {
+            "id": 49095,
+            "plate_no": "72-8028 (ME203)",
+            "code": "ME203",
+            "plate_no_only": "72-8028",
+            "driver_name": "\u0e40\u0e01\u0e23\u0e35\u0e22\u0e07\u0e44\u0e01\u0e23 \u0e1a\u0e38\u0e0d\u0e2b\u0e25\u0e49\u0e32",
+            "driver_id": 29344,
+            "device_types_id": 37
+        },
+        {
+            "id": 49094,
+            "plate_no": "72-8027 (ME204)",
+            "code": "ME204",
+            "plate_no_only": "72-8027",
+            "driver_name": "\u0e17\u0e31\u0e28\u0e29\u0e14\u0e35 \u0e2a\u0e32\u0e22\u0e2a\u0e21\u0e1a\u0e31\u0e15\u0e34",
+            "driver_id": 76138,
+            "device_types_id": 37
+        },
+        {
+            "id": 49097,
+            "plate_no": "72-8032 (ME205)",
+            "code": "ME205",
+            "plate_no_only": "72-8032",
+            "driver_name": "\u0e1e\u0e07\u0e29\u0e4c\u0e1e\u0e31\u0e12\u0e19\u0e4c \u0e1e\u0e25\u0e2b\u0e32\u0e0d",
+            "driver_id": 81664,
+            "device_types_id": 37
+        },
+        {
+            "id": 49093,
+            "plate_no": "72-8030 (ME206)",
+            "code": "ME206",
+            "plate_no_only": "72-8030",
+            "driver_name": "\u0e19\u0e49\u0e33\u0e40\u0e1e\u0e0a\u0e23 \u0e41\u0e1b\u0e49\u0e19\u0e41\u0e01\u0e49\u0e27",
+            "driver_id": 81016,
+            "device_types_id": 37
+        },
+        {
+            "id": 49474,
+            "plate_no": "72-8326 (ME207)",
+            "code": "ME207",
+            "plate_no_only": "72-8326",
+            "driver_name": "\u0e2a\u0e21\u0e40\u0e01\u0e35\u0e22\u0e23\u0e15\u0e34 \u0e2b\u0e2d\u0e21\u0e2b\u0e27\u0e32\u0e19",
+            "driver_id": 81467,
+            "device_types_id": 37
+        },
+        {
+            "id": 49471,
+            "plate_no": "72-8331 (ME208)",
+            "code": "ME208",
+            "plate_no_only": "72-8331",
+            "driver_name": "\u0e23\u0e32\u0e0a\u0e31\u0e22 \u0e21\u0e32\u0e25\u0e32\u0e22\u0e39",
+            "driver_id": 61421,
+            "device_types_id": 37
+        },
+        {
+            "id": 49476,
+            "plate_no": "72-8332 (ME209)",
+            "code": "ME209",
+            "plate_no_only": "72-8332",
+            "driver_name": "\u0e13\u0e20\u0e31\u0e17\u0e23 \u0e04\u0e38\u0e49\u0e21\u0e44\u0e1e\u0e23\u0e35",
+            "driver_id": 78892,
+            "device_types_id": 37
+        },
+        {
+            "id": 49472,
+            "plate_no": "72-8328 (ME210)",
+            "code": "ME210",
+            "plate_no_only": "72-8328",
+            "driver_name": "\u0e19\u0e34\u0e04\u0e21 \u0e1a\u0e38\u0e0d\u0e18\u0e23\u0e23\u0e21",
+            "driver_id": 76494,
+            "device_types_id": 37
+        },
+        {
+            "id": 49469,
+            "plate_no": "72-8329 (ME211)",
+            "code": "ME211",
+            "plate_no_only": "72-8329",
+            "driver_name": "\u0e2a\u0e38\u0e17\u0e34\u0e28 \u0e40\u0e0a\u0e47\u0e29\u0e23\u0e31\u0e21\u0e22\u0e4c",
+            "driver_id": 60399,
+            "device_types_id": 37
+        },
+        {
+            "id": 49473,
+            "plate_no": "72-8334 (ME212)",
+            "code": "ME212",
+            "plate_no_only": "72-8334",
+            "driver_name": "\u0e1b\u0e34\u0e22\u0e30\u0e1e\u0e07\u0e29\u0e4c \u0e27\u0e07\u0e29\u0e4c\u0e04\u0e33\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+            "driver_id": 27138,
+            "device_types_id": 37
+        },
+        {
+            "id": 49475,
+            "plate_no": "72-8327 (ME213)",
+            "code": "ME213",
+            "plate_no_only": "72-8327",
+            "driver_name": "\u0e1e\u0e34\u0e1e\u0e31\u0e12\u0e19\u0e4c \u0e23\u0e38\u0e48\u0e07\u0e23\u0e31\u0e15\u0e19\u0e4c",
+            "driver_id": 77458,
+            "device_types_id": 37
+        },
+        {
+            "id": 49470,
+            "plate_no": "72-8330 (ME214)",
+            "code": "ME214",
+            "plate_no_only": "72-8330",
+            "driver_name": "\u0e0a\u0e31\u0e22\u0e40\u0e0a\u0e29\u0e10\u0e4c \u0e19\u0e32\u0e40\u0e2d\u0e35\u0e48\u0e22\u0e21",
+            "driver_id": 7173,
+            "device_types_id": 37
+        },
+        {
+            "id": 50689,
+            "plate_no": "72-9478 (ME215)",
+            "code": "ME215",
+            "plate_no_only": "72-9478",
+            "driver_name": "\u0e02\u0e27\u0e31\u0e0d\u0e0a\u0e31\u0e22 \u0e2a\u0e32\u0e23\u0e17\u0e23\u0e07",
+            "driver_id": 67327,
+            "device_types_id": 37
+        },
+        {
+            "id": 50692,
+            "plate_no": "72-9477 (ME216)",
+            "code": "ME216",
+            "plate_no_only": "72-9477",
+            "driver_name": "\u0e28\u0e38\u0e20\u0e0a\u0e31\u0e22 \u0e28\u0e23\u0e35\u0e44\u0e2b\u0e21",
+            "driver_id": 16849,
+            "device_types_id": 37
+        },
+        {
+            "id": 50687,
+            "plate_no": "72-9476 (ME217)",
+            "code": "ME217",
+            "plate_no_only": "72-9476",
+            "driver_name": "\u0e01\u0e34\u0e15\u0e15\u0e34\u0e28\u0e27\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e04\u0e33\u0e1b\u0e32\u0e41\u0e1d\u0e07",
+            "driver_id": 67332,
+            "device_types_id": 37
+        },
+        {
+            "id": 50685,
+            "plate_no": "72-9475 (ME218)",
+            "code": "ME218",
+            "plate_no_only": "72-9475",
+            "driver_name": "\u0e44\u0e1e\u0e23\u0e27\u0e31\u0e25\u0e22\u0e37 \u0e01\u0e25\u0e49\u0e32\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c",
+            "driver_id": 79602,
+            "device_types_id": 37
+        },
+        {
+            "id": 50684,
+            "plate_no": "72-9474 (ME219)",
+            "code": "ME219",
+            "plate_no_only": "72-9474",
+            "driver_name": "\u0e08\u0e31\u0e01\u0e23\u0e01\u0e23\u0e34\u0e0a \u0e1a\u0e38\u0e0d\u0e17\u0e2d\u0e07",
+            "driver_id": 45760,
+            "device_types_id": 37
+        },
+        {
+            "id": 50690,
+            "plate_no": "72-9473 (ME220)",
+            "code": "ME220",
+            "plate_no_only": "72-9473",
+            "driver_name": "\u0e1a\u0e38\u0e0d \u0e40\u0e27\u0e35\u0e22\u0e07\u0e2d\u0e34\u0e19\u0e17\u0e23\u0e4c",
+            "driver_id": 67337,
+            "device_types_id": 37
+        },
+        {
+            "id": 50693,
+            "plate_no": "72-9472 (ME221)",
+            "code": "ME221",
+            "plate_no_only": "72-9472",
+            "driver_name": "\u0e18\u0e27\u0e31\u0e0a\u0e0a\u0e31\u0e22 \u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e28\u0e23\u0e35",
+            "driver_id": 81665,
+            "device_types_id": 37
+        },
+        {
+            "id": 50694,
+            "plate_no": "72-9471 (ME222)",
+            "code": "ME222",
+            "plate_no_only": "72-9471",
+            "driver_name": "\u0e19\u0e34\u0e04\u0e21 \u0e22\u0e28\u0e18\u0e30\u0e2a\u0e32\u0e23",
+            "driver_id": 60190,
+            "device_types_id": 37
+        },
+        {
+            "id": 50686,
+            "plate_no": "72-9470 (ME223)",
+            "code": "ME223",
+            "plate_no_only": "72-9470",
+            "driver_name": "\u0e04\u0e21\u0e01\u0e24\u0e29 \u0e41\u0e15\u0e07\u0e40\u0e25\u0e47\u0e01",
+            "driver_id": 81017,
+            "device_types_id": 37
+        },
+        {
+            "id": 50688,
+            "plate_no": "72-9469 (ME224)",
+            "code": "ME224",
+            "plate_no_only": "72-9469",
+            "driver_name": "\u0e2b\u0e2d\u0e21\u0e2b\u0e27\u0e25 \u0e28\u0e23\u0e35\u0e1a\u0e23\u0e34\u0e1a\u0e39\u0e23\u0e13\u0e4c",
+            "driver_id": 81411,
+            "device_types_id": 37
+        },
+        {
+            "id": 51345,
+            "plate_no": "72-9975 (ME225)",
+            "code": "ME225",
+            "plate_no_only": "72-9975",
+            "driver_name": "\u0e2d\u0e19\u0e38\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e04\u0e33\u0e22\u0e27\u0e07",
+            "driver_id": 78894,
+            "device_types_id": 37
+        },
+        {
+            "id": 51352,
+            "plate_no": "72-9976 (ME226)",
+            "code": "ME226",
+            "plate_no_only": "72-9976",
+            "driver_name": "\u0e2a\u0e38\u0e23\u0e30\u0e0a\u0e31\u0e22 \u0e19\u0e34\u0e01\u0e02\u0e38\u0e19\u0e17\u0e14",
+            "driver_id": 71725,
+            "device_types_id": 37
+        },
+        {
+            "id": 51344,
+            "plate_no": "72-9982 (ME227)",
+            "code": "ME227",
+            "plate_no_only": "72-9982",
+            "driver_name": "\u0e18\u0e35\u0e23\u0e30\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e1a\u0e38\u0e49\u0e07\u0e17\u0e2d\u0e07",
+            "driver_id": 71714,
+            "device_types_id": 37
+        },
+        {
+            "id": 51349,
+            "plate_no": "72-9981 (ME228)",
+            "code": "ME228",
+            "plate_no_only": "72-9981",
+            "driver_name": "\u0e18\u0e19\u0e19\u0e31\u0e19\u0e17\u0e4c \u0e27\u0e07\u0e29\u0e4c\u0e21\u0e30\u0e40\u0e2d\u0e35\u0e48\u0e22\u0e21",
+            "driver_id": 71036,
+            "device_types_id": 37
+        },
+        {
+            "id": 51346,
+            "plate_no": "72-9978 (ME229)",
+            "code": "ME229",
+            "plate_no_only": "72-9978",
+            "driver_name": "\u0e2d\u0e38\u0e14\u0e23 \u0e1b\u0e23\u0e32\u0e13\u0e35\u0e15\u0e1e\u0e25\u0e01\u0e23\u0e31\u0e07",
+            "driver_id": 71025,
+            "device_types_id": 37
+        },
+        {
+            "id": 51351,
+            "plate_no": "72-9973 (ME230)",
+            "code": "ME230",
+            "plate_no_only": "72-9973",
+            "driver_name": "\u0e13\u0e31\u0e10\u0e1e\u0e07\u0e28\u0e4c \u0e40\u0e15\u0e0a\u0e30\u0e1a\u0e38\u0e15\u0e23",
+            "driver_id": 79283,
+            "device_types_id": 37
+        },
+        {
+            "id": 51347,
+            "plate_no": "72-9980 (ME231)",
+            "code": "ME231",
+            "plate_no_only": "72-9980",
+            "driver_name": "\u0e17\u0e32\u0e19\u0e17\u0e31\u0e15 \u0e1e\u0e23\u0e30\u0e27\u0e34\u0e17\u0e39\u0e23\u0e22\u0e4c",
+            "driver_id": 77712,
+            "device_types_id": 37
+        },
+        {
+            "id": 51350,
+            "plate_no": "72-9974 (ME232)",
+            "code": "ME232",
+            "plate_no_only": "72-9974",
+            "driver_name": "\u0e19\u0e31\u0e19\u0e17\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e44\u0e18\u0e2a\u0e07",
+            "driver_id": 82920,
+            "device_types_id": 37
+        },
+        {
+            "id": 51454,
+            "plate_no": "73-0045 (ME233)",
+            "code": "ME233",
+            "plate_no_only": "73-0045",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 51455,
+            "plate_no": "73-0046 (ME234)",
+            "code": "ME234",
+            "plate_no_only": "73-0046",
+            "driver_name": "\u0e2a\u0e23\u0e31\u0e13\u0e22\u0e39 \u0e01\u0e32\u0e0b\u0e31\u0e19",
+            "driver_id": 70952,
+            "device_types_id": 37
+        },
+        {
+            "id": 51456,
+            "plate_no": "73-0050 (ME235)",
+            "code": "ME235",
+            "plate_no_only": "73-0050",
+            "driver_name": "\u0e44\u0e1e\u0e11\u0e39\u0e23\u0e22\u0e4c \u0e01\u0e31\u0e25\u0e22\u0e32\u0e44\u0e2a\u0e22",
+            "driver_id": 71024,
+            "device_types_id": 37
+        },
+        {
+            "id": 51459,
+            "plate_no": "73-0049 (ME236)",
+            "code": "ME236",
+            "plate_no_only": "73-0049",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 51460,
+            "plate_no": "73-0043 (ME237)",
+            "code": "ME237",
+            "plate_no_only": "73-0043",
+            "driver_name": "\u0e18\u0e27\u0e31\u0e0a\u0e0a\u0e31\u0e22 \u0e2a\u0e38\u0e27\u0e42\u0e08",
+            "driver_id": 70998,
+            "device_types_id": 37
+        },
+        {
+            "id": 51458,
+            "plate_no": "73-0047 (ME238)",
+            "code": "ME238",
+            "plate_no_only": "73-0047",
+            "driver_name": "\u0e40\u0e2d\u0e01\u0e0a\u0e31\u0e22 \u0e0a\u0e34\u0e19\u0e1c\u0e31\u0e01\u0e41\u0e27\u0e48\u0e19",
+            "driver_id": 55898,
+            "device_types_id": 37
+        },
+        {
+            "id": 51453,
+            "plate_no": "73-0051 (ME239)",
+            "code": "ME239",
+            "plate_no_only": "73-0051",
+            "driver_name": "\u0e04\u0e07\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c \u0e1e\u0e25\u0e2a\u0e35",
+            "driver_id": 20020,
+            "device_types_id": 37
+        },
+        {
+            "id": 51457,
+            "plate_no": "73-0048 (ME240)",
+            "code": "ME240",
+            "plate_no_only": "73-0048",
+            "driver_name": "\u0e18\u0e19\u0e1e\u0e25 \u0e1b\u0e48\u0e38\u0e21\u0e07\u0e32\u0e21",
+            "driver_id": 71028,
+            "device_types_id": 37
+        },
+        {
+            "id": 51694,
+            "plate_no": "73-0129 (ME241)",
+            "code": "ME241",
+            "plate_no_only": "73-0129",
+            "driver_name": "\u0e40\u0e08\u0e35\u0e22\u0e21 \u0e2a\u0e38\u0e02\u0e2a\u0e19\u0e34\u0e17",
+            "driver_id": 67362,
+            "device_types_id": 37
+        },
+        {
+            "id": 51692,
+            "plate_no": "73-0133 (ME242)",
+            "code": "ME242",
+            "plate_no_only": "73-0133",
+            "driver_name": "\u0e0a\u0e32\u0e0d\u0e0a\u0e31\u0e22 \u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e1a\u0e25",
+            "driver_id": 33071,
+            "device_types_id": 37
+        },
+        {
+            "id": 51688,
+            "plate_no": "73-0135 (ME243)",
+            "code": "ME243",
+            "plate_no_only": "73-0135",
+            "driver_name": "\u0e27\u0e31\u0e12\u0e19\u0e32 \u0e40\u0e01\u0e15\u0e38\u0e40\u0e16\u0e37\u0e48\u0e2d\u0e19",
+            "driver_id": 73820,
+            "device_types_id": 37
+        },
+        {
+            "id": 51691,
+            "plate_no": "73-0131 (ME244)",
+            "code": "ME244",
+            "plate_no_only": "73-0131",
+            "driver_name": "\u0e2a\u0e19\u0e34\u0e17 \u0e28\u0e32\u0e25\u0e32\u0e07\u0e32\u0e21",
+            "driver_id": 81471,
+            "device_types_id": 37
+        },
+        {
+            "id": 51622,
+            "plate_no": "73-0130 (ME245)",
+            "code": "ME245",
+            "plate_no_only": "73-0130",
+            "driver_name": "\u0e1b\u0e23\u0e35\u0e0a\u0e32 \u0e08\u0e31\u0e19\u0e17\u0e36\u0e07",
+            "driver_id": 78891,
+            "device_types_id": 37
+        },
+        {
+            "id": 51620,
+            "plate_no": "73-0134 (ME246)",
+            "code": "ME246",
+            "plate_no_only": "73-0134",
+            "driver_name": "\u0e40\u0e21\u0e06\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13 \u0e1a\u0e31\u0e27\u0e28\u0e23\u0e35",
+            "driver_id": 5625,
+            "device_types_id": 37
+        },
+        {
+            "id": 51690,
+            "plate_no": "73-0132 (ME247)",
+            "code": "ME247",
+            "plate_no_only": "73-0132",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a \u0e08\u0e31\u0e01\u0e23\u0e4c\u0e19\u0e32\u0e21\u0e19",
+            "driver_id": 73602,
+            "device_types_id": 37
+        },
+        {
+            "id": 51693,
+            "plate_no": "73-0136 (ME248)",
+            "code": "ME248",
+            "plate_no_only": "73-0136",
+            "driver_name": "\u0e19\u0e31\u0e19\u0e17\u0e1e\u0e23 \u0e1a\u0e38\u0e0d\u0e22\u0e28\u0e23\u0e35\u0e21\u0e32\u0e19\u0e19\u0e17\u0e4c",
+            "driver_id": 62626,
+            "device_types_id": 40
+        },
+        {
+            "id": 40794,
+            "plate_no": "71-5735 (ME401)",
+            "code": "ME401",
+            "plate_no_only": "71-5735",
+            "driver_name": "\u0e2d\u0e19\u0e07\u0e04\u0e4c \u0e0a\u0e49\u0e33\u0e0b\u0e49\u0e2d\u0e22",
+            "driver_id": 49499,
+            "device_types_id": 32
+        },
+        {
+            "id": 5172,
+            "plate_no": "71-4374 (ME404)",
+            "code": "ME404",
+            "plate_no_only": "71-4374",
+            "driver_name": "\u0e23\u0e30\u0e1e\u0e34\u0e19 \u0e41\u0e17\u0e19\u0e04\u0e33",
+            "driver_id": 82488,
+            "device_types_id": 37
+        },
+        {
+            "id": 318,
+            "plate_no": "71-8651 (ME408)",
+            "code": "ME408",
+            "plate_no_only": "71-8651",
+            "driver_name": "\u0e2a\u0e21\u0e40\u0e01\u0e35\u0e22\u0e23\u0e15\u0e34 \u0e42\u0e15\u0e19\u0e14\u0e14\u0e07",
+            "driver_id": 80066,
+            "device_types_id": 20
+        },
+        {
+            "id": 12128,
+            "plate_no": "71-8626 (ME601)",
+            "code": "ME601",
+            "plate_no_only": "71-8626",
+            "driver_name": "\u0e1a\u0e38\u0e0d\u0e23\u0e34\u0e01 \u0e2b\u0e25\u0e2d\u0e14\u0e17\u0e2d\u0e07",
+            "driver_id": 7177,
+            "device_types_id": 32
+        },
+        {
+            "id": 12131,
+            "plate_no": "71-8637 (ME602)",
+            "code": "ME602",
+            "plate_no_only": "71-8637",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 373,
+            "plate_no": "71-8648 (ME603)",
+            "code": "ME603",
+            "plate_no_only": "71-8648",
+            "driver_name": "\u0e1a\u0e38\u0e0d\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e1b\u0e47\u0e07",
+            "driver_id": 25087,
+            "device_types_id": 32
+        },
+        {
+            "id": 12129,
+            "plate_no": "71-8630 (ME604)",
+            "code": "ME604",
+            "plate_no_only": "71-8630",
+            "driver_name": "\u0e2a\u0e38\u0e23\u0e34\u0e22\u0e31\u0e19 \u0e21\u0e30\u0e42\u0e2e\u0e07\u0e0a\u0e31\u0e22",
+            "driver_id": 33392,
+            "device_types_id": 32
+        },
+        {
+            "id": 393,
+            "plate_no": "71-8634 (ME605)",
+            "code": "ME605",
+            "plate_no_only": "71-8634",
+            "driver_name": "\u0e20\u0e39\u0e2a\u0e34\u0e29\u0e10\u0e4c \u0e19\u0e33\u0e1e\u0e32",
+            "driver_id": 5607,
+            "device_types_id": 37
+        },
+        {
+            "id": 263,
+            "plate_no": "71-8642 (ME606)",
+            "code": "ME606",
+            "plate_no_only": "71-8642",
+            "driver_name": "\u0e15\u0e30\u0e27\u0e31\u0e19 \u0e22\u0e32\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c",
+            "driver_id": 5585,
+            "device_types_id": 37
+        },
+        {
+            "id": 5353,
+            "plate_no": "71-4326 (ME881)",
+            "code": "ME881",
+            "plate_no_only": "71-4326",
+            "driver_name": "\u0e13\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e41\u0e01\u0e49\u0e27\u0e21\u0e13\u0e35",
+            "driver_id": 80896,
+            "device_types_id": 20
+        },
+        {
+            "id": 5361,
+            "plate_no": "71-4327 (ME882)",
+            "code": "ME882",
+            "plate_no_only": "71-4327",
+            "driver_name": "\u0e01\u0e34\u0e15\u0e15\u0e34\u0e1e\u0e07\u0e29\u0e4c \u0e40\u0e2b\u0e21\u0e40\u0e1b\u0e35\u0e48\u0e22\u0e21",
+            "driver_id": 81194,
+            "device_types_id": 20
+        },
+        {
+            "id": 1391,
+            "plate_no": "71-1526 (ME883)",
+            "code": "ME883",
+            "plate_no_only": "71-1526",
+            "driver_name": "\u0e1b\u0e34\u0e22\u0e30 \u0e0a\u0e32\u0e27\u0e44\u0e17\u0e22",
+            "driver_id": 81193,
+            "device_types_id": 40
+        },
+        {
+            "id": 2083,
+            "plate_no": "71-1579 (ME884)",
+            "code": "ME884",
+            "plate_no_only": "71-1579",
+            "driver_name": "\u0e40\u0e2a\u0e27\u0e01 \u0e1c\u0e32\u0e22\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+            "driver_id": 77394,
+            "device_types_id": 40
+        },
+        {
+            "id": 2700,
+            "plate_no": "71-2306 (ME885)",
+            "code": "ME885",
+            "plate_no_only": "71-2306",
+            "driver_name": "\u0e2d\u0e23\u0e31\u0e0d\u0e0a\u0e31\u0e22 \u0e40\u0e2d\u0e35\u0e48\u0e22\u0e21\u0e23\u0e31\u0e21\u0e22\u0e4c",
+            "driver_id": 81440,
+            "device_types_id": 20
+        },
+        {
+            "id": 5348,
+            "plate_no": "71-4288 (ME887)",
+            "code": "ME887",
+            "plate_no_only": "71-4288",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5473,
+            "plate_no": "71-5418 (NL02)",
+            "code": "NL02",
+            "plate_no_only": "71-5418",
+            "driver_name": "Driver413 Driver413",
+            "driver_id": 5709,
+            "device_types_id": 20
+        },
+        {
+            "id": 5476,
+            "plate_no": "71-5419 (NL03)",
+            "code": "NL03",
+            "plate_no_only": "71-5419",
+            "driver_name": "Driver416 Driver416",
+            "driver_id": 5712,
+            "device_types_id": 37
+        },
+        {
+            "id": 5500,
+            "plate_no": "71-5471 (NL04)",
+            "code": "NL04",
+            "plate_no_only": "71-5471",
+            "driver_name": "Driver420 Driver420",
+            "driver_id": 5736,
+            "device_types_id": 37
+        },
+        {
+            "id": 8283,
+            "plate_no": "71-6236 (NL05)",
+            "code": "NL05",
+            "plate_no_only": "71-6236",
+            "driver_name": "Driver408 Driver408",
+            "driver_id": 8541,
+            "device_types_id": 32
+        },
+        {
+            "id": 8282,
+            "plate_no": "71-6238 (NL06)",
+            "code": "NL06",
+            "plate_no_only": "71-6238",
+            "driver_name": "Driver407 Driver407",
+            "driver_id": 8540,
+            "device_types_id": 37
+        },
+        {
+            "id": 6422,
+            "plate_no": "71-5731 (NL08)",
+            "code": "NL08",
+            "plate_no_only": "71-5731",
+            "driver_name": "Driver433 Driver433",
+            "driver_id": 6660,
+            "device_types_id": 37
+        },
+        {
+            "id": 5475,
+            "plate_no": "71-5415 (NL09)",
+            "code": "NL09",
+            "plate_no_only": "71-5415",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 10286,
+            "plate_no": "71-7466 (NL12)",
+            "code": "NL12",
+            "plate_no_only": "71-7466",
+            "driver_name": "Driver457 Driver457",
+            "driver_id": 10650,
+            "device_types_id": 37
+        },
+        {
+            "id": 5497,
+            "plate_no": "71-5470 (NL13)",
+            "code": "NL13",
+            "plate_no_only": "71-5470",
+            "driver_name": "Driver417 Driver417",
+            "driver_id": 5733,
+            "device_types_id": 37
+        },
+        {
+            "id": 8286,
+            "plate_no": "71-6239 (NL14)",
+            "code": "NL14",
+            "plate_no_only": "71-6239",
+            "driver_name": "Driver411 Driver411",
+            "driver_id": 8544,
+            "device_types_id": 37
+        },
+        {
+            "id": 10287,
+            "plate_no": "71-7467 (NL15)",
+            "code": "NL15",
+            "plate_no_only": "71-7467",
+            "driver_name": "Driver458 Driver458",
+            "driver_id": 10651,
+            "device_types_id": 37
+        },
+        {
+            "id": 6423,
+            "plate_no": "71-5734 (NL16)",
+            "code": "NL16",
+            "plate_no_only": "71-5734",
+            "driver_name": "Driver434 Driver434",
+            "driver_id": 6661,
+            "device_types_id": 37
+        },
+        {
+            "id": 384,
+            "plate_no": "70-6301 (NL17)",
+            "code": "NL17",
+            "plate_no_only": "70-6301",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 2347,
+            "plate_no": "71-2036 (NL20)",
+            "code": "NL20",
+            "plate_no_only": "71-2036",
+            "driver_name": "Driver155 Driver155",
+            "driver_id": 2451,
+            "device_types_id": 20
+        },
+        {
+            "id": 52821,
+            "plate_no": "71-4435 (NL21)",
+            "code": "NL21",
+            "plate_no_only": "71-4435",
+            "driver_name": "Driver881 Driver881",
+            "driver_id": 71838,
+            "device_types_id": 37
+        },
+        {
+            "id": 8284,
+            "plate_no": "71-6235 (NL22)",
+            "code": "NL22",
+            "plate_no_only": "71-6235",
+            "driver_name": "Driver409 Driver409",
+            "driver_id": 8542,
+            "device_types_id": 37
+        },
+        {
+            "id": 8285,
+            "plate_no": "71-6237 (NL23)",
+            "code": "NL23",
+            "plate_no_only": "71-6237",
+            "driver_name": "Driver410 Driver410",
+            "driver_id": 8543,
+            "device_types_id": 37
+        },
+        {
+            "id": 5472,
+            "plate_no": "71-5417 (NL25)",
+            "code": "NL25",
+            "plate_no_only": "71-5417",
+            "driver_name": "Driver412 Driver412",
+            "driver_id": 5708,
+            "device_types_id": 37
+        },
+        {
+            "id": 394,
+            "plate_no": "71-8636 (NL26)",
+            "code": "NL26",
+            "plate_no_only": "71-8636",
+            "driver_name": "SJC Concrete (\u0e4cDo not edit)",
+            "driver_id": 48774,
+            "device_types_id": 20
+        },
+        {
+            "id": 5499,
+            "plate_no": "71-5472 (NL27)",
+            "code": "NL27",
+            "plate_no_only": "71-5472",
+            "driver_name": "Driver419 Driver419",
+            "driver_id": 5735,
+            "device_types_id": 37
+        },
+        {
+            "id": 5498,
+            "plate_no": "71-5469 (NL29)",
+            "code": "NL29",
+            "plate_no_only": "71-5469",
+            "driver_name": "Driver418 Driver418",
+            "driver_id": 5734,
+            "device_types_id": 37
+        },
+        {
+            "id": 222,
+            "plate_no": "70-6302 (NL31)",
+            "code": "NL31",
+            "plate_no_only": "70-6302",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 4174,
+            "plate_no": "71-3820 (NL32)",
+            "code": "NL32",
+            "plate_no_only": "71-3820",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 1096,
+            "plate_no": "71-1529 (NL33)",
+            "code": "NL33",
+            "plate_no_only": "71-1529",
+            "driver_name": "Driver101 Driver101",
+            "driver_id": 1167,
+            "device_types_id": 20
+        },
+        {
+            "id": 6421,
+            "plate_no": "71-5732 (NL62)",
+            "code": "NL62",
+            "plate_no_only": "71-5732",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 8930,
+            "plate_no": "71-6940 (NL63)",
+            "code": "NL63",
+            "plate_no_only": "71-6940",
+            "driver_name": "Driver435 Driver435",
+            "driver_id": 9243,
+            "device_types_id": 37
+        },
+        {
+            "id": 49333,
+            "plate_no": "70-6297 (NL64)",
+            "code": "NL64",
+            "plate_no_only": "70-6297",
+            "driver_name": "\u0e17\u0e27\u0e35\u0e27\u0e38\u0e12\u0e34 \u0e2a\u0e21\u0e43\u0e08",
+            "driver_id": 71101,
+            "device_types_id": 37
+        },
+        {
+            "id": 27873,
+            "plate_no": "72-0688 (NL66)",
+            "code": "NL66",
+            "plate_no_only": "72-0688",
+            "driver_name": "Driver557 Driver557",
+            "driver_id": 32118,
+            "device_types_id": 26
+        },
+        {
+            "id": 52820,
+            "plate_no": "71-8641 (NL67)",
+            "code": "NL67",
+            "plate_no_only": "71-8641",
+            "driver_name": "Driver880 Driver880",
+            "driver_id": 71837,
+            "device_types_id": 32
+        },
+        {
+            "id": 52792,
+            "plate_no": "71-8645 (NL68)",
+            "code": "NL68",
+            "plate_no_only": "71-8645",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 52776,
+            "plate_no": "71-8640 (P811)",
+            "code": "P811",
+            "plate_no_only": "71-8640",
+            "driver_name": "Driver870 Driver870",
+            "driver_id": 71779,
+            "device_types_id": 37
+        },
+        {
+            "id": 5208,
+            "plate_no": "71-3560 (PU07)",
+            "code": "PU07",
+            "plate_no_only": "71-3560",
+            "driver_name": "\u0e2a\u0e21\u0e1b\u0e2d\u0e07 \u0e23\u0e32\u0e0a\u0e25\u0e31\u0e22",
+            "driver_id": 67323,
+            "device_types_id": 32
+        },
+        {
+            "id": 59158,
+            "plate_no": "71-2625 (PU16)",
+            "code": "PU16",
+            "plate_no_only": "71-2625",
+            "driver_name": "Driver889 Driver889",
+            "driver_id": 78460,
+            "device_types_id": 37
+        },
+        {
+            "id": 5242,
+            "plate_no": "71-4649 (RX08)",
+            "code": "RX08",
+            "plate_no_only": "71-4649",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 4173,
+            "plate_no": "71-3854 (RX09)",
+            "code": "RX09",
+            "plate_no_only": "71-3854",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 50659,
+            "plate_no": "72-9413 (RX10)",
+            "code": "RX10",
+            "plate_no_only": "72-9413",
+            "driver_name": "Driver812 Driver812",
+            "driver_id": 68704,
+            "device_types_id": 37
+        },
+        {
+            "id": 49149,
+            "plate_no": "72-8120 (RX11)",
+            "code": "RX11",
+            "plate_no_only": "72-8120",
+            "driver_name": "Driver718 Driver718",
+            "driver_id": 66400,
+            "device_types_id": 37
+        },
+        {
+            "id": 46070,
+            "plate_no": "72-5484 (T-0025)",
+            "code": "T-0025",
+            "plate_no_only": "72-5484",
+            "driver_name": "Driver625 Driver625",
+            "driver_id": 61641,
+            "device_types_id": 37
+        },
+        {
+            "id": 46068,
+            "plate_no": "72-5503 (T-0027)",
+            "code": "T-0027",
+            "plate_no_only": "72-5503",
+            "driver_name": "Driver623 Driver623",
+            "driver_id": 61639,
+            "device_types_id": 37
+        },
+        {
+            "id": 46069,
+            "plate_no": "72-5504 (T-0030)",
+            "code": "T-0030",
+            "plate_no_only": "72-5504",
+            "driver_name": "Driver624 Driver624",
+            "driver_id": 61640,
+            "device_types_id": 37
+        },
+        {
+            "id": 46071,
+            "plate_no": "72-5502 (T-0039)",
+            "code": "T-0039",
+            "plate_no_only": "72-5502",
+            "driver_name": "Driver626 Driver626",
+            "driver_id": 61642,
+            "device_types_id": 37
+        },
+        {
+            "id": 46121,
+            "plate_no": "72-5616 (T-0043)",
+            "code": "T-0043",
+            "plate_no_only": "72-5616",
+            "driver_name": "Driver636 Driver636",
+            "driver_id": 61712,
+            "device_types_id": 37
+        },
+        {
+            "id": 46072,
+            "plate_no": "72-5495 (T-0046)",
+            "code": "T-0046",
+            "plate_no_only": "72-5495",
+            "driver_name": "Driver627 Driver627",
+            "driver_id": 61643,
+            "device_types_id": 37
+        },
+        {
+            "id": 46096,
+            "plate_no": "72-5635 (T-0047)",
+            "code": "T-0047",
+            "plate_no_only": "72-5635",
+            "driver_name": "Driver630 Driver630",
+            "driver_id": 61683,
+            "device_types_id": 37
+        },
+        {
+            "id": 46094,
+            "plate_no": "72-5637 (T-0050)",
+            "code": "T-0050",
+            "plate_no_only": "72-5637",
+            "driver_name": "Driver628 Driver628",
+            "driver_id": 61680,
+            "device_types_id": 37
+        },
+        {
+            "id": 46095,
+            "plate_no": "72-5639 (T-0054)",
+            "code": "T-0054",
+            "plate_no_only": "72-5639",
+            "driver_name": "Driver629 Driver629",
+            "driver_id": 61681,
+            "device_types_id": 37
+        },
+        {
+            "id": 46114,
+            "plate_no": "72-5750 (T-0063)",
+            "code": "T-0063",
+            "plate_no_only": "72-5750",
+            "driver_name": "Driver631 Driver631",
+            "driver_id": 61701,
+            "device_types_id": 37
+        },
+        {
+            "id": 46122,
+            "plate_no": "72-5749 (T-0066)",
+            "code": "T-0066",
+            "plate_no_only": "72-5749",
+            "driver_name": "Driver637 Driver637",
+            "driver_id": 61713,
+            "device_types_id": 37
+        },
+        {
+            "id": 49072,
+            "plate_no": "72-7938 (T-0197)",
+            "code": "T-0197",
+            "plate_no_only": "72-7938",
+            "driver_name": "Driver704 Driver704",
+            "driver_id": 66261,
+            "device_types_id": 37
+        },
+        {
+            "id": 49068,
+            "plate_no": "72-8062 (T-0200)",
+            "code": "T-0200",
+            "plate_no_only": "72-8062",
+            "driver_name": "Driver701 Driver701",
+            "driver_id": 66253,
+            "device_types_id": 37
+        },
+        {
+            "id": 49069,
+            "plate_no": "72-8063 (T-0201)",
+            "code": "T-0201",
+            "plate_no_only": "72-8063",
+            "driver_name": "Driver702 Driver702",
+            "driver_id": 66254,
+            "device_types_id": 37
+        },
+        {
+            "id": 49071,
+            "plate_no": "72-8064 (T-0202)",
+            "code": "T-0202",
+            "plate_no_only": "72-8064",
+            "driver_name": "Driver703 Driver703",
+            "driver_id": 66260,
+            "device_types_id": 37
+        },
+        {
+            "id": 2692,
+            "plate_no": "71-1507 (TH1080)",
+            "code": "TH1080",
+            "plate_no_only": "71-1507",
+            "driver_name": "Driver168 Driver168",
+            "driver_id": 2799,
+            "device_types_id": 40
+        },
+        {
+            "id": 2351,
+            "plate_no": "71-1508 (TH1081)",
+            "code": "TH1081",
+            "plate_no_only": "71-1508",
+            "driver_name": "Driver159 Driver159",
+            "driver_id": 2455,
+            "device_types_id": 40
+        },
+        {
+            "id": 2342,
+            "plate_no": "71-1505 (TH1082)",
+            "code": "TH1082",
+            "plate_no_only": "71-1505",
+            "driver_name": "Driver151 Driver151",
+            "driver_id": 2446,
+            "device_types_id": 40
+        },
+        {
+            "id": 2330,
+            "plate_no": "71-1506 (TH1084)",
+            "code": "TH1084",
+            "plate_no_only": "71-1506",
+            "driver_name": "Driver143 Driver143",
+            "driver_id": 2434,
+            "device_types_id": 40
+        },
+        {
+            "id": 1089,
+            "plate_no": "71-1012 (TH1085)",
+            "code": "TH1085",
+            "plate_no_only": "71-1012",
+            "driver_name": "TH1085 TH1085",
+            "driver_id": 1158,
+            "device_types_id": 40
+        },
+        {
+            "id": 1075,
+            "plate_no": "71-1013 (TH1086)",
+            "code": "TH1086",
+            "plate_no_only": "71-1013",
+            "driver_name": "TH1086 TH1086",
+            "driver_id": 1116,
+            "device_types_id": 40
+        },
+        {
+            "id": 1073,
+            "plate_no": "71-1014 (TH1087)",
+            "code": "TH1087",
+            "plate_no_only": "71-1014",
+            "driver_name": "TH1087 TH1087",
+            "driver_id": 1112,
+            "device_types_id": 40
+        },
+        {
+            "id": 1074,
+            "plate_no": "71-1018 (TH1088)",
+            "code": "TH1088",
+            "plate_no_only": "71-1018",
+            "driver_name": "TH1088 TH1088",
+            "driver_id": 1115,
+            "device_types_id": 40
+        },
+        {
+            "id": 1072,
+            "plate_no": "71-1017 (TH1089)",
+            "code": "TH1089",
+            "plate_no_only": "71-1017",
+            "driver_name": "TH1089 TH1089",
+            "driver_id": 1111,
+            "device_types_id": 40
+        },
+        {
+            "id": 1088,
+            "plate_no": "71-1256 (TH1090)",
+            "code": "TH1090",
+            "plate_no_only": "71-1256",
+            "driver_name": "TH1090 TH1090",
+            "driver_id": 1157,
+            "device_types_id": 40
+        },
+        {
+            "id": 1091,
+            "plate_no": "71-1254 (TH1091)",
+            "code": "TH1091",
+            "plate_no_only": "71-1254",
+            "driver_name": "TH1091 TH1091",
+            "driver_id": 1160,
+            "device_types_id": 40
+        },
+        {
+            "id": 1086,
+            "plate_no": "71-1257 (TH1092)",
+            "code": "TH1092",
+            "plate_no_only": "71-1257",
+            "driver_name": "TH1092 TH1092",
+            "driver_id": 1155,
+            "device_types_id": 40
+        },
+        {
+            "id": 1085,
+            "plate_no": "71-1325 (TH1093)",
+            "code": "TH1093",
+            "plate_no_only": "71-1325",
+            "driver_name": "TH1093 TH1093",
+            "driver_id": 1154,
+            "device_types_id": 40
+        },
+        {
+            "id": 1100,
+            "plate_no": "71-1491 (TH1094)",
+            "code": "TH1094",
+            "plate_no_only": "71-1491",
+            "driver_name": "Driver103 Driver103",
+            "driver_id": 1171,
+            "device_types_id": 40
+        },
+        {
+            "id": 1612,
+            "plate_no": "71-1527 (TH1095)",
+            "code": "TH1095",
+            "plate_no_only": "71-1527",
+            "driver_name": "Driver119 Driver119",
+            "driver_id": 1714,
+            "device_types_id": 40
+        },
+        {
+            "id": 1122,
+            "plate_no": "71-1553 (TH1096)",
+            "code": "TH1096",
+            "plate_no_only": "71-1553",
+            "driver_name": "Driver106 Driver106",
+            "driver_id": 1193,
+            "device_types_id": 40
+        },
+        {
+            "id": 3034,
+            "plate_no": "71-1525 (TH1098)",
+            "code": "TH1098",
+            "plate_no_only": "71-1525",
+            "driver_name": "Driver175 Driver175",
+            "driver_id": 3150,
+            "device_types_id": 40
+        },
+        {
+            "id": 3281,
+            "plate_no": "71-1524 (TH1099)",
+            "code": "TH1099",
+            "plate_no_only": "71-1524",
+            "driver_name": "Driver177 Driver177",
+            "driver_id": 3410,
+            "device_types_id": 40
+        },
+        {
+            "id": 1860,
+            "plate_no": "71-1578 (TH1100)",
+            "code": "TH1100",
+            "plate_no_only": "71-1578",
+            "driver_name": "Driver120 Driver120",
+            "driver_id": 1962,
+            "device_types_id": 40
+        },
+        {
+            "id": 1611,
+            "plate_no": "71-1577 (TH1103)",
+            "code": "TH1103",
+            "plate_no_only": "71-1577",
+            "driver_name": "Driver118 Driver118",
+            "driver_id": 1713,
+            "device_types_id": 40
+        },
+        {
+            "id": 1595,
+            "plate_no": "71-1586 (TH1104)",
+            "code": "TH1104",
+            "plate_no_only": "71-1586",
+            "driver_name": "Driver117 Driver117",
+            "driver_id": 1697,
+            "device_types_id": 20
+        },
+        {
+            "id": 1392,
+            "plate_no": "71-1713 (TH1105)",
+            "code": "TH1105",
+            "plate_no_only": "71-1713",
+            "driver_name": "Driver114 Driver114",
+            "driver_id": 1494,
+            "device_types_id": 40
+        },
+        {
+            "id": 2082,
+            "plate_no": "71-1716 (TH1106)",
+            "code": "TH1106",
+            "plate_no_only": "71-1716",
+            "driver_name": "Driver131 Driver131",
+            "driver_id": 2184,
+            "device_types_id": 40
+        },
+        {
+            "id": 2081,
+            "plate_no": "71-1712 (TH1107)",
+            "code": "TH1107",
+            "plate_no_only": "71-1712",
+            "driver_name": "Driver130 Driver130",
+            "driver_id": 2183,
+            "device_types_id": 40
+        },
+        {
+            "id": 2022,
+            "plate_no": "71-1715 (TH1108)",
+            "code": "TH1108",
+            "plate_no_only": "71-1715",
+            "driver_name": "Driver123 Driver123",
+            "driver_id": 2124,
+            "device_types_id": 40
+        },
+        {
+            "id": 2185,
+            "plate_no": "71-1964 (TH1110)",
+            "code": "TH1110",
+            "plate_no_only": "71-1964",
+            "driver_name": "Driver136 Driver136",
+            "driver_id": 2287,
+            "device_types_id": 40
+        },
+        {
+            "id": 2084,
+            "plate_no": "71-1962 (TH1111)",
+            "code": "TH1111",
+            "plate_no_only": "71-1962",
+            "driver_name": "Driver133 Driver133",
+            "driver_id": 2186,
+            "device_types_id": 40
+        },
+        {
+            "id": 2085,
+            "plate_no": "71-1966 (TH1112)",
+            "code": "TH1112",
+            "plate_no_only": "71-1966",
+            "driver_name": "Driver134 Driver134",
+            "driver_id": 2187,
+            "device_types_id": 40
+        },
+        {
+            "id": 52819,
+            "plate_no": "71-1963 (TH1113)",
+            "code": "TH1113",
+            "plate_no_only": "71-1963",
+            "driver_name": "Driver879 Driver879",
+            "driver_id": 71836,
+            "device_types_id": 40
+        },
+        {
+            "id": 3180,
+            "plate_no": "71-1965 (TH1114)",
+            "code": "TH1114",
+            "plate_no_only": "71-1965",
+            "driver_name": "Driver176 Driver176",
+            "driver_id": 3305,
+            "device_types_id": 40
+        },
+        {
+            "id": 2036,
+            "plate_no": "71-1960 (TH1115)",
+            "code": "TH1115",
+            "plate_no_only": "71-1960",
+            "driver_name": "Driver127 Driver127",
+            "driver_id": 2138,
+            "device_types_id": 40
+        },
+        {
+            "id": 3285,
+            "plate_no": "71-2302 (TH1117)",
+            "code": "TH1117",
+            "plate_no_only": "71-2302",
+            "driver_name": "Driver178 Driver178",
+            "driver_id": 3414,
+            "device_types_id": 40
+        },
+        {
+            "id": 2888,
+            "plate_no": "71-2298 (TH1118)",
+            "code": "TH1118",
+            "plate_no_only": "71-2298",
+            "driver_name": "Driver174 Driver174",
+            "driver_id": 2995,
+            "device_types_id": 40
+        },
+        {
+            "id": 2868,
+            "plate_no": "71-2303 (TH1120)",
+            "code": "TH1120",
+            "plate_no_only": "71-2303",
+            "driver_name": "Driver173 Driver173",
+            "driver_id": 2975,
+            "device_types_id": 40
+        },
+        {
+            "id": 2694,
+            "plate_no": "71-2301 (TH1121)",
+            "code": "TH1121",
+            "plate_no_only": "71-2301",
+            "driver_name": "Driver169 Driver169",
+            "driver_id": 2801,
+            "device_types_id": 40
+        },
+        {
+            "id": 2855,
+            "plate_no": "71-2305 (TH1122)",
+            "code": "TH1122",
+            "plate_no_only": "71-2305",
+            "driver_name": "Driver172 Driver172",
+            "driver_id": 2962,
+            "device_types_id": 40
+        },
+        {
+            "id": 2186,
+            "plate_no": "71-2304 (TH1123)",
+            "code": "TH1123",
+            "plate_no_only": "71-2304",
+            "driver_name": "Driver137 Driver137",
+            "driver_id": 2288,
+            "device_types_id": 40
+        },
+        {
+            "id": 2226,
+            "plate_no": "71-2382 (TH1124)",
+            "code": "TH1124",
+            "plate_no_only": "71-2382",
+            "driver_name": "Driver139 Driver139",
+            "driver_id": 2328,
+            "device_types_id": 40
+        },
+        {
+            "id": 6130,
+            "plate_no": "71-4287 (TH1125)",
+            "code": "TH1125",
+            "plate_no_only": "71-4287",
+            "driver_name": "Driver428 Driver428",
+            "driver_id": 6368,
+            "device_types_id": 40
+        },
+        {
+            "id": 5376,
+            "plate_no": "71-4285 (TH1126)",
+            "code": "TH1126",
+            "plate_no_only": "71-4285",
+            "driver_name": "Driver310 Driver310",
+            "driver_id": 5535,
+            "device_types_id": 40
+        },
+        {
+            "id": 5384,
+            "plate_no": "71-4289 (TH1127)",
+            "code": "TH1127",
+            "plate_no_only": "71-4289",
+            "driver_name": "Driver314 Driver314",
+            "driver_id": 5543,
+            "device_types_id": 40
+        },
+        {
+            "id": 5352,
+            "plate_no": "71-4325 (TH1130)",
+            "code": "TH1130",
+            "plate_no_only": "71-4325",
+            "driver_name": "Driver292 Driver292",
+            "driver_id": 5511,
+            "device_types_id": 40
+        },
+        {
+            "id": 5370,
+            "plate_no": "71-4286 (TH1131)",
+            "code": "TH1131",
+            "plate_no_only": "71-4286",
+            "driver_name": "Driver304 Driver304",
+            "driver_id": 5529,
+            "device_types_id": 40
+        },
+        {
+            "id": 5354,
+            "plate_no": "71-4321 (TH1132)",
+            "code": "TH1132",
+            "plate_no_only": "71-4321",
+            "driver_name": "Driver294 Driver294",
+            "driver_id": 5513,
+            "device_types_id": 40
+        },
+        {
+            "id": 5360,
+            "plate_no": "71-4284 (TH1133)",
+            "code": "TH1133",
+            "plate_no_only": "71-4284",
+            "driver_name": "Driver298 Driver298",
+            "driver_id": 5519,
+            "device_types_id": 40
+        },
+        {
+            "id": 5374,
+            "plate_no": "71-4320 (TH1134)",
+            "code": "TH1134",
+            "plate_no_only": "71-4320",
+            "driver_name": "Driver308 Driver308",
+            "driver_id": 5533,
+            "device_types_id": 40
+        },
+        {
+            "id": 5395,
+            "plate_no": "71-4322 (TH1136)",
+            "code": "TH1136",
+            "plate_no_only": "71-4322",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5398,
+            "plate_no": "71-4430 (TH1137)",
+            "code": "TH1137",
+            "plate_no_only": "71-4430",
+            "driver_name": "Driver324 Driver324",
+            "driver_id": 5557,
+            "device_types_id": 40
+        },
+        {
+            "id": 5455,
+            "plate_no": "71-4488 (TH1138)",
+            "code": "TH1138",
+            "plate_no_only": "71-4488",
+            "driver_name": "Driver405 Driver405",
+            "driver_id": 5686,
+            "device_types_id": 40
+        },
+        {
+            "id": 5558,
+            "plate_no": "71-4471 (TH1139)",
+            "code": "TH1139",
+            "plate_no_only": "71-4471",
+            "driver_name": "Driver423 Driver423",
+            "driver_id": 5794,
+            "device_types_id": 40
+        },
+        {
+            "id": 5375,
+            "plate_no": "71-4432 (TH1140)",
+            "code": "TH1140",
+            "plate_no_only": "71-4432",
+            "driver_name": "Driver309 Driver309",
+            "driver_id": 5534,
+            "device_types_id": 40
+        },
+        {
+            "id": 5364,
+            "plate_no": "71-4431 (TH1141)",
+            "code": "TH1141",
+            "plate_no_only": "71-4431",
+            "driver_name": "Driver302 Driver302",
+            "driver_id": 5523,
+            "device_types_id": 40
+        },
+        {
+            "id": 5355,
+            "plate_no": "71-4725 (TH1142)",
+            "code": "TH1142",
+            "plate_no_only": "71-4725",
+            "driver_name": "Driver295 Driver295",
+            "driver_id": 5514,
+            "device_types_id": 40
+        },
+        {
+            "id": 5359,
+            "plate_no": "71-4729 (TH1143)",
+            "code": "TH1143",
+            "plate_no_only": "71-4729",
+            "driver_name": "Driver297 Driver297",
+            "driver_id": 5518,
+            "device_types_id": 40
+        },
+        {
+            "id": 5369,
+            "plate_no": "71-4726 (TH1144)",
+            "code": "TH1144",
+            "plate_no_only": "71-4726",
+            "driver_name": "Driver303 Driver303",
+            "driver_id": 5528,
+            "device_types_id": 40
+        },
+        {
+            "id": 5358,
+            "plate_no": "71-4728 (TH1145)",
+            "code": "TH1145",
+            "plate_no_only": "71-4728",
+            "driver_name": "Driver296 Driver296",
+            "driver_id": 5517,
+            "device_types_id": 40
+        },
+        {
+            "id": 5363,
+            "plate_no": "71-4724 (TH1146)",
+            "code": "TH1146",
+            "plate_no_only": "71-4724",
+            "driver_name": "Driver301 Driver301",
+            "driver_id": 5522,
+            "device_types_id": 40
+        },
+        {
+            "id": 316,
+            "plate_no": "71-8631 (TH1154)",
+            "code": "TH1154",
+            "plate_no_only": "71-8631",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 63238,
+            "plate_no": "71-3853 \u0e2a\u0e1a. (TH1155)",
+            "code": "TH1155",
+            "plate_no_only": "71-3853 \u0e2a\u0e1a.",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": null
+        },
+        {
+            "id": 63441,
+            "plate_no": "71-2873 \u0e2a\u0e1a. (TH1156)",
+            "code": "TH1156",
+            "plate_no_only": "71-2873 \u0e2a\u0e1a.",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": null
+        },
+        {
+            "id": 63239,
+            "plate_no": "70-6297 \u0e2a\u0e1a. (TH1157)",
+            "code": "TH1157",
+            "plate_no_only": "70-6297 \u0e2a\u0e1a.",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": null
+        },
+        {
+            "id": 2345,
+            "plate_no": "71-2039 (TH1242)",
+            "code": "TH1242",
+            "plate_no_only": "71-2039",
+            "driver_name": "Driver153 Driver153",
+            "driver_id": 2449,
+            "device_types_id": 20
+        },
+        {
+            "id": 2350,
+            "plate_no": "71-2037 (TH1243)",
+            "code": "TH1243",
+            "plate_no_only": "71-2037",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 2837,
+            "plate_no": "71-2411 (TH1246)",
+            "code": "TH1246",
+            "plate_no_only": "71-2411",
+            "driver_name": "Driver171 Driver171",
+            "driver_id": 2944,
+            "device_types_id": 40
+        },
+        {
+            "id": 2331,
+            "plate_no": "71-2512 (TH1247)",
+            "code": "TH1247",
+            "plate_no_only": "71-2512",
+            "driver_name": "Driver144 Driver144",
+            "driver_id": 2435,
+            "device_types_id": 40
+        },
+        {
+            "id": 2357,
+            "plate_no": "71-2514 (TH1248)",
+            "code": "TH1248",
+            "plate_no_only": "71-2514",
+            "driver_name": "Driver160 Driver160",
+            "driver_id": 2461,
+            "device_types_id": 40
+        },
+        {
+            "id": 2343,
+            "plate_no": "71-2475 (TH1249)",
+            "code": "TH1249",
+            "plate_no_only": "71-2475",
+            "driver_name": "Driver152 Driver152",
+            "driver_id": 2447,
+            "device_types_id": 40
+        },
+        {
+            "id": 2341,
+            "plate_no": "71-2476 (TH1251)",
+            "code": "TH1251",
+            "plate_no_only": "71-2476",
+            "driver_name": "Driver150 Driver150",
+            "driver_id": 2445,
+            "device_types_id": 40
+        },
+        {
+            "id": 2340,
+            "plate_no": "71-2474 (TH1252)",
+            "code": "TH1252",
+            "plate_no_only": "71-2474",
+            "driver_name": "Driver149 Driver149",
+            "driver_id": 2444,
+            "device_types_id": 40
+        },
+        {
+            "id": 2346,
+            "plate_no": "71-2473 (TH1253)",
+            "code": "TH1253",
+            "plate_no_only": "71-2473",
+            "driver_name": "Driver154 Driver154",
+            "driver_id": 2450,
+            "device_types_id": 40
+        },
+        {
+            "id": 2327,
+            "plate_no": "71-2472 (TH1254)",
+            "code": "TH1254",
+            "plate_no_only": "71-2472",
+            "driver_name": "Driver140 Driver140",
+            "driver_id": 2431,
+            "device_types_id": 20
+        },
+        {
+            "id": 52816,
+            "plate_no": "71-1531 (TH1291)",
+            "code": "TH1291",
+            "plate_no_only": "71-1531",
+            "driver_name": "Driver876 Driver876",
+            "driver_id": 71833,
+            "device_types_id": 40
+        },
+        {
+            "id": 5243,
+            "plate_no": "71-1950 (TH1292)",
+            "code": "TH1292",
+            "plate_no_only": "71-1950",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 40786,
+            "plate_no": "71-2023 (TH1293)",
+            "code": "TH1293",
+            "plate_no_only": "71-2023",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 52822,
+            "plate_no": "71-2876 (TH1294)",
+            "code": "TH1294",
+            "plate_no_only": "71-2876",
+            "driver_name": "Driver882 Driver882",
+            "driver_id": 71839,
+            "device_types_id": 32
+        },
+        {
+            "id": 5166,
+            "plate_no": "71-1958 (TH1295)",
+            "code": "TH1295",
+            "plate_no_only": "71-1958",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 2329,
+            "plate_no": "71-1532 (TH1296)",
+            "code": "TH1296",
+            "plate_no_only": "71-1532",
+            "driver_name": "Driver142 Driver142",
+            "driver_id": 2433,
+            "device_types_id": 40
+        },
+        {
+            "id": 12428,
+            "plate_no": "71-8633 (TH1299)",
+            "code": "TH1299",
+            "plate_no_only": "71-8633",
+            "driver_name": "\u0e40\u0e2a\u0e23\u0e35 \u0e20\u0e34\u0e23\u0e21\u0e22\u0e4c\u0e40\u0e0a\u0e22",
+            "driver_id": 5597,
+            "device_types_id": 40
+        },
+        {
+            "id": 58184,
+            "plate_no": "71-8633 (TH1299)",
+            "code": "TH1299",
+            "plate_no_only": "71-8633",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": null
+        },
+        {
+            "id": 2358,
+            "plate_no": "71-2513 (TH1312)",
+            "code": "TH1312",
+            "plate_no_only": "71-2513",
+            "driver_name": "Driver161 Driver161",
+            "driver_id": 2462,
+            "device_types_id": 40
+        },
+        {
+            "id": 8751,
+            "plate_no": "71-6748 (TH1351)",
+            "code": "TH1351",
+            "plate_no_only": "71-6748",
+            "driver_name": "Driver421 Driver421",
+            "driver_id": 9031,
+            "device_types_id": 40
+        },
+        {
+            "id": 8748,
+            "plate_no": "71-6750 (TH1352)",
+            "code": "TH1352",
+            "plate_no_only": "71-6750",
+            "driver_name": "Driver418 Driver418",
+            "driver_id": 9028,
+            "device_types_id": 40
+        },
+        {
+            "id": 5150,
+            "plate_no": "71-4017 (TH1353)",
+            "code": "TH1353",
+            "plate_no_only": "71-4017",
+            "driver_name": "Driver211 Driver211",
+            "driver_id": 5304,
+            "device_types_id": 40
+        },
+        {
+            "id": 5104,
+            "plate_no": "71-4018 (TH1354)",
+            "code": "TH1354",
+            "plate_no_only": "71-4018",
+            "driver_name": "Driver210 Driver210",
+            "driver_id": 5258,
+            "device_types_id": 40
+        },
+        {
+            "id": 5100,
+            "plate_no": "71-4020 (TH1355)",
+            "code": "TH1355",
+            "plate_no_only": "71-4020",
+            "driver_name": "Driver206 Driver206",
+            "driver_id": 5254,
+            "device_types_id": 20
+        },
+        {
+            "id": 5103,
+            "plate_no": "71-4021 (TH1356)",
+            "code": "TH1356",
+            "plate_no_only": "71-4021",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5102,
+            "plate_no": "71-4019 (TH1357)",
+            "code": "TH1357",
+            "plate_no_only": "71-4019",
+            "driver_name": "Driver208 Driver208",
+            "driver_id": 5256,
+            "device_types_id": 40
+        },
+        {
+            "id": 8747,
+            "plate_no": "71-6746 (TH1369)",
+            "code": "TH1369",
+            "plate_no_only": "71-6746",
+            "driver_name": "Driver417 Driver417",
+            "driver_id": 9027,
+            "device_types_id": 40
+        },
+        {
+            "id": 5101,
+            "plate_no": "71-4016 (TH1370)",
+            "code": "TH1370",
+            "plate_no_only": "71-4016",
+            "driver_name": "Driver207 Driver207",
+            "driver_id": 5255,
+            "device_types_id": 40
+        },
+        {
+            "id": 8750,
+            "plate_no": "71-6752 (TH1371)",
+            "code": "TH1371",
+            "plate_no_only": "71-6752",
+            "driver_name": "Driver420 Driver420",
+            "driver_id": 9030,
+            "device_types_id": 40
+        },
+        {
+            "id": 8749,
+            "plate_no": "71-6747 (TH1372)",
+            "code": "TH1372",
+            "plate_no_only": "71-6747",
+            "driver_name": "Driver419 Driver419",
+            "driver_id": 9029,
+            "device_types_id": 40
+        },
+        {
+            "id": 8758,
+            "plate_no": "71-6751 (TH1373)",
+            "code": "TH1373",
+            "plate_no_only": "71-6751",
+            "driver_name": "Driver423 Driver423",
+            "driver_id": 9040,
+            "device_types_id": 40
+        },
+        {
+            "id": 8757,
+            "plate_no": "71-6749 (TH1374)",
+            "code": "TH1374",
+            "plate_no_only": "71-6749",
+            "driver_name": "Driver422 Driver422",
+            "driver_id": 9039,
+            "device_types_id": 40
+        },
+        {
+            "id": 5097,
+            "plate_no": "71-4246 (TH1380)",
+            "code": "TH1380",
+            "plate_no_only": "71-4246",
+            "driver_name": "Driver203 Driver203",
+            "driver_id": 5251,
+            "device_types_id": 40
+        },
+        {
+            "id": 5098,
+            "plate_no": "71-4248 (TH1381)",
+            "code": "TH1381",
+            "plate_no_only": "71-4248",
+            "driver_name": "Driver204 Driver204",
+            "driver_id": 5252,
+            "device_types_id": 40
+        },
+        {
+            "id": 5096,
+            "plate_no": "71-4245 (TH1382)",
+            "code": "TH1382",
+            "plate_no_only": "71-4245",
+            "driver_name": "Driver202 Driver202",
+            "driver_id": 5250,
+            "device_types_id": 40
+        },
+        {
+            "id": 5099,
+            "plate_no": "71-4247 (TH1383)",
+            "code": "TH1383",
+            "plate_no_only": "71-4247",
+            "driver_name": "Driver205 Driver205",
+            "driver_id": 5253,
+            "device_types_id": 40
+        },
+        {
+            "id": 5373,
+            "plate_no": "71-4244 (TH1384)",
+            "code": "TH1384",
+            "plate_no_only": "71-4244",
+            "driver_name": "Driver307 Driver307",
+            "driver_id": 5532,
+            "device_types_id": 40
+        },
+        {
+            "id": 5394,
+            "plate_no": "71-4249 (TH1385)",
+            "code": "TH1385",
+            "plate_no_only": "71-4249",
+            "driver_name": "Driver322 Driver322",
+            "driver_id": 5553,
+            "device_types_id": 40
+        },
+        {
+            "id": 5430,
+            "plate_no": "71-4250 (TH1387)",
+            "code": "TH1387",
+            "plate_no_only": "71-4250",
+            "driver_name": "Driver394 Driver394",
+            "driver_id": 5652,
+            "device_types_id": 40
+        },
+        {
+            "id": 5399,
+            "plate_no": "71-4739 (TH1501)",
+            "code": "TH1501",
+            "plate_no_only": "71-4739",
+            "driver_name": "Driver325 Driver325",
+            "driver_id": 5558,
+            "device_types_id": 40
+        },
+        {
+            "id": 5086,
+            "plate_no": "71-4738 (TH1502)",
+            "code": "TH1502",
+            "plate_no_only": "71-4738",
+            "driver_name": "Driver192 Driver192",
+            "driver_id": 5240,
+            "device_types_id": 40
+        },
+        {
+            "id": 54073,
+            "plate_no": "71-4740 (TH1503)",
+            "code": "TH1503",
+            "plate_no_only": "71-4740",
+            "driver_name": "Driver885 Driver885",
+            "driver_id": 73153,
+            "device_types_id": 40
+        },
+        {
+            "id": 5385,
+            "plate_no": "71-4741 (TH1504)",
+            "code": "TH1504",
+            "plate_no_only": "71-4741",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5400,
+            "plate_no": "71-4737 (TH1505)",
+            "code": "TH1505",
+            "plate_no_only": "71-4737",
+            "driver_name": "Driver326 Driver326",
+            "driver_id": 5559,
+            "device_types_id": 40
+        },
+        {
+            "id": 5089,
+            "plate_no": "71-4716 (TH1506)",
+            "code": "TH1506",
+            "plate_no_only": "71-4716",
+            "driver_name": "Driver195 Driver195",
+            "driver_id": 5243,
+            "device_types_id": 20
+        },
+        {
+            "id": 5088,
+            "plate_no": "71-4714 (TH1507)",
+            "code": "TH1507",
+            "plate_no_only": "71-4714",
+            "driver_name": "Driver194 Driver194",
+            "driver_id": 5242,
+            "device_types_id": 40
+        },
+        {
+            "id": 5386,
+            "plate_no": "71-4720 (TH1508)",
+            "code": "TH1508",
+            "plate_no_only": "71-4720",
+            "driver_name": "Driver316 Driver316",
+            "driver_id": 5545,
+            "device_types_id": 20
+        },
+        {
+            "id": 5402,
+            "plate_no": "71-4722 (TH1509)",
+            "code": "TH1509",
+            "plate_no_only": "71-4722",
+            "driver_name": "Driver328 Driver328",
+            "driver_id": 5561,
+            "device_types_id": 40
+        },
+        {
+            "id": 5350,
+            "plate_no": "71-4721 (TH1510)",
+            "code": "TH1510",
+            "plate_no_only": "71-4721",
+            "driver_name": "Driver290 Driver290",
+            "driver_id": 5509,
+            "device_types_id": 40
+        },
+        {
+            "id": 5351,
+            "plate_no": "71-4836 (TH1511)",
+            "code": "TH1511",
+            "plate_no_only": "71-4836",
+            "driver_name": "Driver291 Driver291",
+            "driver_id": 5510,
+            "device_types_id": 40
+        },
+        {
+            "id": 5387,
+            "plate_no": "71-4834 (TH1512)",
+            "code": "TH1512",
+            "plate_no_only": "71-4834",
+            "driver_name": "Driver317 Driver317",
+            "driver_id": 5546,
+            "device_types_id": 40
+        },
+        {
+            "id": 5349,
+            "plate_no": "71-4835 (TH1513)",
+            "code": "TH1513",
+            "plate_no_only": "71-4835",
+            "driver_name": "Driver289 Driver289",
+            "driver_id": 5508,
+            "device_types_id": 40
+        },
+        {
+            "id": 5087,
+            "plate_no": "71-4832 (TH1514)",
+            "code": "TH1514",
+            "plate_no_only": "71-4832",
+            "driver_name": "Driver193 Driver193",
+            "driver_id": 5241,
+            "device_types_id": 20
+        },
+        {
+            "id": 5383,
+            "plate_no": "71-4833 (TH1515)",
+            "code": "TH1515",
+            "plate_no_only": "71-4833",
+            "driver_name": "Driver313 Driver313",
+            "driver_id": 5542,
+            "device_types_id": 40
+        },
+        {
+            "id": 5404,
+            "plate_no": "71-4829 (TH1516)",
+            "code": "TH1516",
+            "plate_no_only": "71-4829",
+            "driver_name": "Driver330 Driver330",
+            "driver_id": 5563,
+            "device_types_id": 20
+        },
+        {
+            "id": 5382,
+            "plate_no": "71-4828 (TH1517)",
+            "code": "TH1517",
+            "plate_no_only": "71-4828",
+            "driver_name": "Driver312 Driver312",
+            "driver_id": 5541,
+            "device_types_id": 40
+        },
+        {
+            "id": 5391,
+            "plate_no": "71-4830 (TH1518)",
+            "code": "TH1518",
+            "plate_no_only": "71-4830",
+            "driver_name": "Driver321 Driver321",
+            "driver_id": 5550,
+            "device_types_id": 40
+        },
+        {
+            "id": 5381,
+            "plate_no": "71-4831 (TH1519)",
+            "code": "TH1519",
+            "plate_no_only": "71-4831",
+            "driver_name": "Driver311 Driver311",
+            "driver_id": 5540,
+            "device_types_id": 40
+        },
+        {
+            "id": 5388,
+            "plate_no": "71-4827 (TH1520)",
+            "code": "TH1520",
+            "plate_no_only": "71-4827",
+            "driver_name": "Driver318 Driver318",
+            "driver_id": 5547,
+            "device_types_id": 40
+        },
+        {
+            "id": 5389,
+            "plate_no": "71-4898 (TH1521)",
+            "code": "TH1521",
+            "plate_no_only": "71-4898",
+            "driver_name": "Driver319 Driver319",
+            "driver_id": 5548,
+            "device_types_id": 40
+        },
+        {
+            "id": 5401,
+            "plate_no": "71-4899 (TH1522)",
+            "code": "TH1522",
+            "plate_no_only": "71-4899",
+            "driver_name": "Driver327 Driver327",
+            "driver_id": 5560,
+            "device_types_id": 40
+        },
+        {
+            "id": 5390,
+            "plate_no": "71-4901 (TH1523)",
+            "code": "TH1523",
+            "plate_no_only": "71-4901",
+            "driver_name": "Driver320 Driver320",
+            "driver_id": 5549,
+            "device_types_id": 40
+        },
+        {
+            "id": 5403,
+            "plate_no": "71-4900 (TH1524)",
+            "code": "TH1524",
+            "plate_no_only": "71-4900",
+            "driver_name": "Driver329 Driver329",
+            "driver_id": 5562,
+            "device_types_id": 40
+        },
+        {
+            "id": 6128,
+            "plate_no": "71-5051 (TH1525)",
+            "code": "TH1525",
+            "plate_no_only": "71-5051",
+            "driver_name": "Driver427 Driver427",
+            "driver_id": 6366,
+            "device_types_id": 40
+        },
+        {
+            "id": 9946,
+            "plate_no": "71-7351 (TH1701)",
+            "code": "TH1701",
+            "plate_no_only": "71-7351",
+            "driver_name": "Driver440 Driver440",
+            "driver_id": 10305,
+            "device_types_id": 40
+        },
+        {
+            "id": 9947,
+            "plate_no": "71-7352 (TH1702)",
+            "code": "TH1702",
+            "plate_no_only": "71-7352",
+            "driver_name": "Driver441 Driver441",
+            "driver_id": 10306,
+            "device_types_id": 40
+        },
+        {
+            "id": 9943,
+            "plate_no": "71-7353 (TH1703)",
+            "code": "TH1703",
+            "plate_no_only": "71-7353",
+            "driver_name": "Driver437 Driver437",
+            "driver_id": 10302,
+            "device_types_id": 40
+        },
+        {
+            "id": 9944,
+            "plate_no": "71-7354 (TH1704)",
+            "code": "TH1704",
+            "plate_no_only": "71-7354",
+            "driver_name": "Driver438 Driver438",
+            "driver_id": 10303,
+            "device_types_id": 40
+        },
+        {
+            "id": 9945,
+            "plate_no": "71-7355 (TH1705)",
+            "code": "TH1705",
+            "plate_no_only": "71-7355",
+            "driver_name": "Driver439 Driver439",
+            "driver_id": 10304,
+            "device_types_id": 40
+        },
+        {
+            "id": 10741,
+            "plate_no": "71-7683 (TH1720)",
+            "code": "TH1720",
+            "plate_no_only": "71-7683",
+            "driver_name": "Driver459 Driver459",
+            "driver_id": 11138,
+            "device_types_id": 40
+        },
+        {
+            "id": 10745,
+            "plate_no": "71-7679 (TH1721)",
+            "code": "TH1721",
+            "plate_no_only": "71-7679",
+            "driver_name": "Driver463 Driver463",
+            "driver_id": 11142,
+            "device_types_id": 40
+        },
+        {
+            "id": 10744,
+            "plate_no": "71-7680 (TH1722)",
+            "code": "TH1722",
+            "plate_no_only": "71-7680",
+            "driver_name": "Driver462 Driver462",
+            "driver_id": 11141,
+            "device_types_id": 40
+        },
+        {
+            "id": 10742,
+            "plate_no": "71-7682 (TH1723)",
+            "code": "TH1723",
+            "plate_no_only": "71-7682",
+            "driver_name": "Driver460 Driver460",
+            "driver_id": 11139,
+            "device_types_id": 40
+        },
+        {
+            "id": 10743,
+            "plate_no": "71-7681 (TH1724)",
+            "code": "TH1724",
+            "plate_no_only": "71-7681",
+            "driver_name": "Driver461 Driver461",
+            "driver_id": 11140,
+            "device_types_id": 40
+        },
+        {
+            "id": 10852,
+            "plate_no": "71-7708 (TH1725)",
+            "code": "TH1725",
+            "plate_no_only": "71-7708",
+            "driver_name": "Driver468 Driver468",
+            "driver_id": 11251,
+            "device_types_id": 40
+        },
+        {
+            "id": 10849,
+            "plate_no": "71-7741 (TH1726)",
+            "code": "TH1726",
+            "plate_no_only": "71-7741",
+            "driver_name": "Driver465 Driver465",
+            "driver_id": 11248,
+            "device_types_id": 40
+        },
+        {
+            "id": 10850,
+            "plate_no": "71-7742 (TH1727)",
+            "code": "TH1727",
+            "plate_no_only": "71-7742",
+            "driver_name": "Driver466 Driver466",
+            "driver_id": 11249,
+            "device_types_id": 40
+        },
+        {
+            "id": 10851,
+            "plate_no": "71-7743 (TH1728)",
+            "code": "TH1728",
+            "plate_no_only": "71-7743",
+            "driver_name": "Driver467 Driver467",
+            "driver_id": 11250,
+            "device_types_id": 40
+        },
+        {
+            "id": 10848,
+            "plate_no": "71-7745 (TH1729)",
+            "code": "TH1729",
+            "plate_no_only": "71-7745",
+            "driver_name": "Driver464 Driver464",
+            "driver_id": 11247,
+            "device_types_id": 40
+        },
+        {
+            "id": 11002,
+            "plate_no": "71-7746 (TH1730)",
+            "code": "TH1730",
+            "plate_no_only": "71-7746",
+            "driver_name": "Driver473 Driver473",
+            "driver_id": 11403,
+            "device_types_id": 40
+        },
+        {
+            "id": 10999,
+            "plate_no": "71-7747 (TH1731)",
+            "code": "TH1731",
+            "plate_no_only": "71-7747",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 11000,
+            "plate_no": "71-7748 (TH1732)",
+            "code": "TH1732",
+            "plate_no_only": "71-7748",
+            "driver_name": "Driver471 Driver471",
+            "driver_id": 11401,
+            "device_types_id": 40
+        },
+        {
+            "id": 10998,
+            "plate_no": "71-7749 (TH1733)",
+            "code": "TH1733",
+            "plate_no_only": "71-7749",
+            "driver_name": "Driver469 Driver469",
+            "driver_id": 11399,
+            "device_types_id": 40
+        },
+        {
+            "id": 11001,
+            "plate_no": "71-7750 (TH1734)",
+            "code": "TH1734",
+            "plate_no_only": "71-7750",
+            "driver_name": "Driver472 Driver472",
+            "driver_id": 11402,
+            "device_types_id": 40
+        },
+        {
+            "id": 11154,
+            "plate_no": "71-7759 (TH1735)",
+            "code": "TH1735",
+            "plate_no_only": "71-7759",
+            "driver_name": "Driver478 Driver478",
+            "driver_id": 11556,
+            "device_types_id": 40
+        },
+        {
+            "id": 11153,
+            "plate_no": "71-7760 (TH1736)",
+            "code": "TH1736",
+            "plate_no_only": "71-7760",
+            "driver_name": "Driver477 Driver477",
+            "driver_id": 11555,
+            "device_types_id": 40
+        },
+        {
+            "id": 11150,
+            "plate_no": "71-7761 (TH1737)",
+            "code": "TH1737",
+            "plate_no_only": "71-7761",
+            "driver_name": "Driver474 Driver474",
+            "driver_id": 11552,
+            "device_types_id": 40
+        },
+        {
+            "id": 11151,
+            "plate_no": "71-7762 (TH1738)",
+            "code": "TH1738",
+            "plate_no_only": "71-7762",
+            "driver_name": "Driver475 Driver475",
+            "driver_id": 11553,
+            "device_types_id": 40
+        },
+        {
+            "id": 11152,
+            "plate_no": "71-7763 (TH1739)",
+            "code": "TH1739",
+            "plate_no_only": "71-7763",
+            "driver_name": "Driver476 Driver476",
+            "driver_id": 11554,
+            "device_types_id": 40
+        },
+        {
+            "id": 52791,
+            "plate_no": "71-8624 (TH1908)",
+            "code": "TH1908",
+            "plate_no_only": "71-8624",
+            "driver_name": "Driver871 Driver871",
+            "driver_id": 71802,
+            "device_types_id": 40
+        },
+        {
+            "id": 599,
+            "plate_no": "71-0433 (TH1910)",
+            "code": "TH1910",
+            "plate_no_only": "71-0433",
+            "driver_name": "DRV341 DRV341",
+            "driver_id": 625,
+            "device_types_id": 40
+        },
+        {
+            "id": 5372,
+            "plate_no": "71-3564 (TH1913)",
+            "code": "TH1913",
+            "plate_no_only": "71-3564",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 5241,
+            "plate_no": "71-2875 (TH1979)",
+            "code": "TH1979",
+            "plate_no_only": "71-2875",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 205,
+            "plate_no": "71-8628 (TH205)",
+            "code": "TH205",
+            "plate_no_only": "71-8628",
+            "driver_name": "\u0e04\u0e38\u0e13\u0e2a\u0e07\u0e48\u0e32 \u0e1e\u0e23\u0e31\u0e14\u0e1e\u0e23\u0e21",
+            "driver_id": 198,
+            "device_types_id": 40
+        },
+        {
+            "id": 231,
+            "plate_no": "71-8652 (TH220)",
+            "code": "TH220",
+            "plate_no_only": "71-8652",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 586,
+            "plate_no": "71-0429 (TH334)",
+            "code": "TH334",
+            "plate_no_only": "71-0429",
+            "driver_name": "DRV334 DRV334",
+            "driver_id": 611,
+            "device_types_id": 40
+        },
+        {
+            "id": 584,
+            "plate_no": "71-0435 (TH335)",
+            "code": "TH335",
+            "plate_no_only": "71-0435",
+            "driver_name": "DRV335 DRV335",
+            "driver_id": 609,
+            "device_types_id": 40
+        },
+        {
+            "id": 585,
+            "plate_no": "71-0434 (TH336)",
+            "code": "TH336",
+            "plate_no_only": "71-0434",
+            "driver_name": "DRV336 DRV336",
+            "driver_id": 610,
+            "device_types_id": 20
+        },
+        {
+            "id": 713,
+            "plate_no": "71-0436 (TH337)",
+            "code": "TH337",
+            "plate_no_only": "71-0436",
+            "driver_name": "DRV337 DRV337",
+            "driver_id": 739,
+            "device_types_id": 20
+        },
+        {
+            "id": 600,
+            "plate_no": "71-0430 (TH340)",
+            "code": "TH340",
+            "plate_no_only": "71-0430",
+            "driver_name": "DRV340 DRV340",
+            "driver_id": 624,
+            "device_types_id": 40
+        },
+        {
+            "id": 601,
+            "plate_no": "71-0437 (TH342)",
+            "code": "TH342",
+            "plate_no_only": "71-0437",
+            "driver_name": "DRV342 DRV342",
+            "driver_id": 626,
+            "device_types_id": 40
+        },
+        {
+            "id": 602,
+            "plate_no": "71-0438 (TH343)",
+            "code": "TH343",
+            "plate_no_only": "71-0438",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 233,
+            "plate_no": "70-6292 (TH401)",
+            "code": "TH401",
+            "plate_no_only": "70-6292",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 223,
+            "plate_no": "70-6304 (TH413)",
+            "code": "TH413",
+            "plate_no_only": "70-6304",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 40
+        },
+        {
+            "id": 39673,
+            "plate_no": "71-2698 (U089)",
+            "code": "U089",
+            "plate_no_only": "71-2698",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 319,
+            "plate_no": "71-8638 (UF18)",
+            "code": "UF18",
+            "plate_no_only": "71-8638",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 4172,
+            "plate_no": "71-3855 (UF38)",
+            "code": "UF38",
+            "plate_no_only": "71-3855",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 44840,
+            "plate_no": "71-4718 (UF54)",
+            "code": "UF54",
+            "plate_no_only": "71-4718",
+            "driver_name": "\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a \u0e08\u0e31\u0e01\u0e23\u0e4c\u0e19\u0e32\u0e21\u0e19",
+            "driver_id": 63053,
+            "device_types_id": 32
+        },
+        {
+            "id": 5200,
+            "plate_no": "71-4369 (UF72)",
+            "code": "UF72",
+            "plate_no_only": "71-4369",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 32
+        },
+        {
+            "id": 39986,
+            "plate_no": "71-2792 (UF90)",
+            "code": "UF90",
+            "plate_no_only": "71-2792",
+            "driver_name": "SJC Concrete (\u0e4cDo not edit)",
+            "driver_id": 28407,
+            "device_types_id": 37
+        },
+        {
+            "id": 43375,
+            "plate_no": "71-2784 (UF92)",
+            "code": "UF92",
+            "plate_no_only": "71-2784",
+            "driver_name": "\u0e40\u0e2d \u0e41\u0e2a\u0e07\u0e17\u0e2d\u0e07",
+            "driver_id": 56295,
+            "device_types_id": 37
+        },
+        {
+            "id": 2328,
+            "plate_no": "71-1504 (UF93)",
+            "code": "UF93",
+            "plate_no_only": "71-1504",
+            "driver_name": "Driver141 Driver141",
+            "driver_id": 2432,
+            "device_types_id": 37
+        },
+        {
+            "id": 376,
+            "plate_no": "70-6294 (UF95)",
+            "code": "UF95",
+            "plate_no_only": "70-6294",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 52815,
+            "plate_no": "71-4437 (UH03)",
+            "code": "UH03",
+            "plate_no_only": "71-4437",
+            "driver_name": "Driver875 Driver875",
+            "driver_id": 71832,
+            "device_types_id": 37
+        },
+        {
+            "id": 52817,
+            "plate_no": "71-0432 (UH04)",
+            "code": "UH04",
+            "plate_no_only": "71-0432",
+            "driver_name": "Driver877 Driver877",
+            "driver_id": 71835,
+            "device_types_id": 37
+        },
+        {
+            "id": 39987,
+            "plate_no": "71-2786 (UH06)",
+            "code": "UH06",
+            "plate_no_only": "71-2786",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 20
+        },
+        {
+            "id": 49146,
+            "plate_no": "72-8112 (UH16)",
+            "code": "UH16",
+            "plate_no_only": "72-8112",
+            "driver_name": "Driver715 Driver715",
+            "driver_id": 66397,
+            "device_types_id": 37
+        },
+        {
+            "id": 49684,
+            "plate_no": "72-8560 (UH17)",
+            "code": "UH17",
+            "plate_no_only": "72-8560",
+            "driver_name": "Driver754 Driver754",
+            "driver_id": 67190,
+            "device_types_id": 37
+        },
+        {
+            "id": 58948,
+            "plate_no": "\u0e2a\u0e1a72-0546 (UH20)",
+            "code": "UH20",
+            "plate_no_only": "\u0e2a\u0e1a72-0546",
+            "driver_name": "Driver888 Driver888",
+            "driver_id": 78245,
+            "device_types_id": 32
+        },
+        {
+            "id": 6097,
+            "plate_no": "71-4436 (UH22)",
+            "code": "UH22",
+            "plate_no_only": "71-4436",
+            "driver_name": null,
+            "driver_id": null,
+            "device_types_id": 37
+        },
+        {
+            "id": 8929,
+            "plate_no": "71-6939 (UH24)",
+            "code": "UH24",
+            "plate_no_only": "71-6939",
+            "driver_name": "Driver434 Driver434",
+            "driver_id": 9242,
+            "device_types_id": 37
+        },
+        {
+            "id": 59323,
+            "plate_no": "71-2631 (UH28)",
+            "code": "UH28",
+            "plate_no_only": "71-2631",
+            "driver_name": "Driver892 Driver892",
+            "driver_id": 78631,
+            "device_types_id": 37
+        },
+        {
+            "id": 59301,
+            "plate_no": "71-6801 (UH29)",
+            "code": "UH29",
+            "plate_no_only": "71-6801",
+            "driver_name": "Driver891 Driver891",
+            "driver_id": 78609,
+            "device_types_id": 37
+        },
+        {
+            "id": 49678,
+            "plate_no": "72-8559 (UH48)",
+            "code": "UH48",
+            "plate_no_only": "72-8559",
+            "driver_name": "Driver751 Driver751",
+            "driver_id": 67184,
+            "device_types_id": 37
+        },
+        {
+            "id": 50516,
+            "plate_no": "72-9262 (UH49)",
+            "code": "UH49",
+            "plate_no_only": "72-9262",
+            "driver_name": "Driver780 Driver780",
+            "driver_id": 68522,
+            "device_types_id": 37
+        },
+        {
+            "id": 50518,
+            "plate_no": "72-9260 (UH51)",
+            "code": "UH51",
+            "plate_no_only": "72-9260",
+            "driver_name": "Driver782 Driver782",
+            "driver_id": 68524,
+            "device_types_id": 37
+        },
+        {
+            "id": 52814,
+            "plate_no": "71-2872 (ZY11)",
+            "code": "ZY11",
+            "plate_no_only": "71-2872",
+            "driver_name": "Driver874 Driver874",
+            "driver_id": 71831,
+            "device_types_id": 37
+        },
+        {
+            "id": 24453,
+            "plate_no": "\u0e01\u0e08-2613 (\u0e01\u0e08-2613)",
+            "code": "\u0e01\u0e08-2613",
+            "plate_no_only": "\u0e01\u0e08-2613",
+            "driver_name": "Driver534 Driver534",
+            "driver_id": 26967,
+            "device_types_id": 26
+        },
+        {
+            "id": 55829,
+            "plate_no": "\u0e01\u0e17-8258 (\u0e01\u0e17-8258)",
+            "code": "\u0e01\u0e17-8258",
+            "plate_no_only": "\u0e01\u0e17-8258",
+            "driver_name": "Driver886 Driver886",
+            "driver_id": 74958,
+            "device_types_id": 37
+        },
+        {
+            "id": 58534,
+            "plate_no": "\u0e01\u0e18-2607 (\u0e01\u0e18-2607)",
+            "code": "\u0e01\u0e18-2607",
+            "plate_no_only": "\u0e01\u0e18-2607",
+            "driver_name": "Driver887 Driver887",
+            "driver_id": 77821,
+            "device_types_id": 40
+        },
+        {
+            "id": 24446,
+            "plate_no": "\u0e01\u0e19-9363 (\u0e01\u0e19-9363)",
+            "code": "\u0e01\u0e19-9363",
+            "plate_no_only": "\u0e01\u0e19-9363",
+            "driver_name": "Driver527 Driver527",
+            "driver_id": 26953,
+            "device_types_id": 26
+        },
+        {
+            "id": 24443,
+            "plate_no": "\u0e01\u0e19-9364 (\u0e01\u0e19-9364)",
+            "code": "\u0e01\u0e19-9364",
+            "plate_no_only": "\u0e01\u0e19-9364",
+            "driver_name": "Driver524 Driver524",
+            "driver_id": 26950,
+            "device_types_id": 26
+        },
+        {
+            "id": 46609,
+            "plate_no": "\u0e01\u0e274506 (\u0e01\u0e274506)",
+            "code": "\u0e01\u0e274506",
+            "plate_no_only": "\u0e01\u0e274506",
+            "driver_name": "Driver659 Driver659",
+            "driver_id": 62358,
+            "device_types_id": 37
+        },
+        {
+            "id": 46610,
+            "plate_no": "\u0e01\u0e274507 (\u0e01\u0e274507)",
+            "code": "\u0e01\u0e274507",
+            "plate_no_only": "\u0e01\u0e274507",
+            "driver_name": "Driver660 Driver660",
+            "driver_id": 62359,
+            "device_types_id": 37
+        },
+        {
+            "id": 24456,
+            "plate_no": "\u0e1a\u0e18-7904 (\u0e1a\u0e18-7904)",
+            "code": "\u0e1a\u0e18-7904",
+            "plate_no_only": "\u0e1a\u0e18-7904",
+            "driver_name": "Driver537 Driver537",
+            "driver_id": 26973,
+            "device_types_id": 26
+        },
+        {
+            "id": 24455,
+            "plate_no": "\u0e1a\u0e19-4080 (\u0e1a\u0e19-4080)",
+            "code": "\u0e1a\u0e19-4080",
+            "plate_no_only": "\u0e1a\u0e19-4080",
+            "driver_name": "Driver536 Driver536",
+            "driver_id": 26969,
+            "device_types_id": 26
+        },
+        {
+            "id": 24445,
+            "plate_no": "\u0e1a\u0e19-9004 (\u0e1a\u0e19-9004)",
+            "code": "\u0e1a\u0e19-9004",
+            "plate_no_only": "\u0e1a\u0e19-9004",
+            "driver_name": "Driver526 Driver526",
+            "driver_id": 26952,
+            "device_types_id": 26
+        },
+        {
+            "id": 24441,
+            "plate_no": "\u0e1a\u0e1a-9765 (\u0e1a\u0e1a-9765)",
+            "code": "\u0e1a\u0e1a-9765",
+            "plate_no_only": "\u0e1a\u0e1a-9765",
+            "driver_name": "Driver522 Driver522",
+            "driver_id": 26948,
+            "device_types_id": 26
+        },
+        {
+            "id": 24447,
+            "plate_no": "\u0e1a\u0e23-8747 (\u0e1a\u0e23-8747)",
+            "code": "\u0e1a\u0e23-8747",
+            "plate_no_only": "\u0e1a\u0e23-8747",
+            "driver_name": "Driver528 Driver528",
+            "driver_id": 26954,
+            "device_types_id": 26
+        },
+        {
+            "id": 24448,
+            "plate_no": "\u0e1a\u0e23-8748 (\u0e1a\u0e23-8748)",
+            "code": "\u0e1a\u0e23-8748",
+            "plate_no_only": "\u0e1a\u0e23-8748",
+            "driver_name": "Driver529 Driver529",
+            "driver_id": 26955,
+            "device_types_id": 26
+        },
+        {
+            "id": 24452,
+            "plate_no": "\u0e1a\u0e23-8749 (\u0e1a\u0e23-8749)",
+            "code": "\u0e1a\u0e23-8749",
+            "plate_no_only": "\u0e1a\u0e23-8749",
+            "driver_name": "Driver533 Driver533",
+            "driver_id": 26966,
+            "device_types_id": 26
+        },
+        {
+            "id": 24454,
+            "plate_no": "\u0e1a\u0e23-8750 (\u0e1a\u0e23-8750)",
+            "code": "\u0e1a\u0e23-8750",
+            "plate_no_only": "\u0e1a\u0e23-8750",
+            "driver_name": "Driver535 Driver535",
+            "driver_id": 26968,
+            "device_types_id": 26
+        },
+        {
+            "id": 24449,
+            "plate_no": "\u0e1a\u0e23-8751 (\u0e1a\u0e23-8751)",
+            "code": "\u0e1a\u0e23-8751",
+            "plate_no_only": "\u0e1a\u0e23-8751",
+            "driver_name": "Driver530 Driver530",
+            "driver_id": 26956,
+            "device_types_id": 26
+        },
+        {
+            "id": 24450,
+            "plate_no": "\u0e1a\u0e25-3759 (\u0e1a\u0e25-3759)",
+            "code": "\u0e1a\u0e25-3759",
+            "plate_no_only": "\u0e1a\u0e25-3759",
+            "driver_name": "Driver531 Driver531",
+            "driver_id": 26957,
+            "device_types_id": 26
+        },
+        {
+            "id": 24451,
+            "plate_no": "\u0e1a\u0e25-3760 (\u0e1a\u0e25-3760)",
+            "code": "\u0e1a\u0e25-3760",
+            "plate_no_only": "\u0e1a\u0e25-3760",
+            "driver_name": "Driver532 Driver532",
+            "driver_id": 26958,
+            "device_types_id": 26
+        }
+    ]
+}
