@@ -4,7 +4,8 @@ import numpy as np
 import io
 import os
 import logging
-
+import os
+import json
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
@@ -24,8 +25,11 @@ API_PUSH = os.getenv("API_PUSH")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
 
-VEHICLE_PATH = os.path.join(ROOT_DIR, "vehicle.json")
 
+VEHICLE_PATH = os.path.join(BASE_DIR, "vehicle.json")
+
+with open(VEHICLE_PATH, "r") as f:
+    vehicle_data = json.load(f)
 
 # ------------------------------------------------
 # LOGGING
