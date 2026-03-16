@@ -264,8 +264,7 @@ def push_api(df):
     df["minutes_diff"] = pd.to_numeric(df["minutes_diff"],errors="coerce").fillna(0)
     df["compensate"] = pd.to_numeric(df["compensate"],errors="coerce").fillna(0)
     df = df.where(pd.notnull(df), None)
-    data = df.to_dict(orient="records")
-
+    df = df.astype(object).where(pd.notnull(df), None)
     response = requests.post(
         API_PUSH,
         json=data,
