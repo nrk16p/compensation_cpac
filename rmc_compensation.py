@@ -130,8 +130,9 @@ def transform_data(df):
         "เวลาถึงไซต์งาน",
         "เวลาออกจากไซต์งาน",
         "เวลาออกตั๋ว"
-    ]
-
+        ]
+    print("\n=== RAW COLUMNS ===")
+    print(df.columns.tolist())
     df = df[cols]
 
     df["เวลาถึงไซต์งาน"] = pd.to_datetime(df["เวลาถึงไซต์งาน"], errors="coerce")
