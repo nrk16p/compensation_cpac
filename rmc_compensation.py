@@ -49,8 +49,8 @@ def fetch_rmc_report(date: str = None) -> pd.DataFrame:
     else:
         target_date = date
 
-    date_start = f"{target_date} 00:00:00"
-    date_end = f"{target_date} 23:59:59"
+    date_start = f"2026-03-30 00:00:00"
+    date_end = f"2026-04-06 23:59:59"
 
     logging.info(f"Fetch report for {target_date}")
 
