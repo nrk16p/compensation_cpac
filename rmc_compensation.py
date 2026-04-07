@@ -241,7 +241,11 @@ def push_api(df):
         "TruckPlateNo_clean","PlantName",
         "tier","truck_type","is_complete_trip"
     ]
-
+    print("\n=== SAMPLE DATA ===")
+    print(df[[
+        "TicketNo","TruckPlateNo","TruckPlateNo_clean",
+        "PlantName","truck_type","date_ticket"
+    ]].head(5))
     for col in string_cols:
         if col in df.columns:
             df[col] = df[col].astype(str)
