@@ -130,9 +130,8 @@ def transform_data(df):
         "เวลาถึงไซต์งาน",
         "เวลาออกจากไซต์งาน",
         "เวลาออกตั๋ว"
-        ]
-    print("\n=== RAW COLUMNS ===")
-    print(df.columns.tolist())
+    ]
+
     df = df[cols]
 
     df["เวลาถึงไซต์งาน"] = pd.to_datetime(df["เวลาถึงไซต์งาน"], errors="coerce")
@@ -203,19 +202,7 @@ def transform_data(df):
         df["SiteMoveInAt"].notna() & df["SiteMoveOutAt"].notna(),
         "Y","N"
     )
-    # ================================
-    # 🔍 DEBUG: AFTER MERGE
-    # ================================
-    print("\n=== DEBUG AFTER MERGE ===")
-    print("total rows:", len(df))
-
-    print("รหัสรถ sample:", df["รหัสรถ"].head(5).tolist())
-    print("vehicle code sample:", vehicle_df["code"].head(5).tolist())
-
-    print("plate_no missing:", df["plate_no"].isna().sum())
-    print("plate_no_only missing:", df["plate_no_only"].isna().sum())
-
-    print("unique ประเภทรถ:", df["ประเภทรถ"].unique())
+    
     return df
 
 
@@ -225,6 +212,7 @@ def transform_data(df):
 def push_api(df):
 
     df = df.replace([np.inf,-np.inf],np.nan)
+    print(df.head)
 
     required_cols = [
         "TicketNo","TruckPlateNo","TruckPlateNo_clean",
@@ -241,11 +229,7 @@ def push_api(df):
         "TruckPlateNo_clean","PlantName",
         "tier","truck_type","is_complete_trip"
     ]
-    print("\n=== SAMPLE DATA ===")
-    print(df[[
-        "TicketNo","TruckPlateNo","TruckPlateNo_clean",
-        "PlantName","truck_type","date_ticket"
-    ]].head(5))
+
     for col in string_cols:
         if col in df.columns:
             df[col] = df[col].astype(str)
