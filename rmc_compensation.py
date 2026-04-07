@@ -202,7 +202,19 @@ def transform_data(df):
         df["SiteMoveInAt"].notna() & df["SiteMoveOutAt"].notna(),
         "Y","N"
     )
+    # ================================
+    # 🔍 DEBUG: AFTER MERGE
+    # ================================
+    print("\n=== DEBUG AFTER MERGE ===")
+    print("total rows:", len(df))
 
+    print("รหัสรถ sample:", df["รหัสรถ"].head(5).tolist())
+    print("vehicle code sample:", vehicle_df["code"].head(5).tolist())
+
+    print("plate_no missing:", df["plate_no"].isna().sum())
+    print("plate_no_only missing:", df["plate_no_only"].isna().sum())
+
+    print("unique ประเภทรถ:", df["ประเภทรถ"].unique())
     return df
 
 
