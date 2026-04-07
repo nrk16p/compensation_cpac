@@ -173,12 +173,7 @@ def transform_data(df):
     vehicle_df = pd.json_normalize(vehicle["data"])
 
     # ฝั่ง df
-    df["รหัสรถ"] = (
-        pd.to_numeric(df["รหัสรถ"], errors="coerce")  # แปลงให้เป็นเลขก่อน
-        .fillna(0)
-        .astype(int)
-        .astype(str)
-    )
+    df["รหัสรถ"] = df["รหัสรถ"].astype(int).astype(str)
 
     # ฝั่ง vehicle
     vehicle_df["code"] = (
