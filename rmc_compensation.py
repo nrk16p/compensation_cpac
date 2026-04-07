@@ -49,8 +49,8 @@ def fetch_rmc_report(date: str = None) -> pd.DataFrame:
     else:
         target_date = date
 
-    date_start = f"2026-03-30 00:00:00"
-    date_end = f"2026-04-05 23:59:59"
+    date_start = f"{target_date} 00:00:00"
+    date_end = f"{target_date} 23:59:59"
 
     logging.info(f"Fetch report for {target_date}")
 
@@ -175,6 +175,7 @@ def transform_data(df):
     # ฝั่ง df
     df["รหัสรถ"] = (
         pd.to_numeric(df["รหัสรถ"], errors="coerce")  # แปลงให้เป็นเลขก่อน
+        .fillna(0)
         .astype(int)
         .astype(str)
     )
@@ -182,6 +183,7 @@ def transform_data(df):
     # ฝั่ง vehicle
     vehicle_df["code"] = (
         pd.to_numeric(vehicle_df["code"], errors="coerce")
+        .fillna(0)
         .astype(int)
         .astype(str)
     )
