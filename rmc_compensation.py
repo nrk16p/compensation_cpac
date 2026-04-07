@@ -172,9 +172,21 @@ def transform_data(df):
     vehicle = pd.read_json(VEHICLE_PATH)
     vehicle_df = pd.json_normalize(vehicle["data"])
 
-    df["รหัสรถ"] = df["รหัสรถ"].astype(str)
-    vehicle_df["code"] = vehicle_df["code"].astype(str)
+    # ฝั่ง df
+    df["รหัสรถ"] = (
+        pd.to_numeric(df["รหัสรถ"], errors="coerce")  # แปลงให้เป็นเลขก่อน
+        .fillna(0)
+        .astype(int)
+        .astype(str)
+    )
 
+    # ฝั่ง vehicle
+    vehicle_df["code"] = (
+        pd.to_numeric(vehicle_df["code"], errors="coerce")
+        .fillna(0)
+        .astype(int)
+        .astype(str)
+    )
     df = df.merge(vehicle_df, how="left", left_on="รหัสรถ", right_on="code")
 
     df["truck_type"] = df["ประเภทรถ"].map({
