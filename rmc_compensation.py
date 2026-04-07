@@ -181,7 +181,9 @@ def transform_data(df):
         "รถโม่ใหญ่ 10 ล้อ": "ML",
         "รถโม่เล็ก 4 ล้อ": "MS"
     })
+    df["ประเภทรถ"] = df["ประเภทรถ"].str.strip()
 
+    print(df["ประเภทรถ"].head(5))
     df = df.rename(columns={
         "หมายเลข DP":"TicketNo",
         "รหัสรถ":"TruckNo",
